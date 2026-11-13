@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+.env
+*.key
+knowledge_base/raw/
+knowledge_base/index/
+*.log

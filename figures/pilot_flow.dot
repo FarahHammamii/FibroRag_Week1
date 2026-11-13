@@ -1,0 +1,12 @@
+digraph P {
+ graph [rankdir=TB, bgcolor="white", pad=.2, ranksep=.3];
+ node [shape=box, color="black", fontname="DejaVu Sans", fontsize=10, width=3.6];
+ edge [color="black"];
+ a [label="12 test queries run on 12/11/2026\nPubMed (6), OpenAlex (5), Europe PMC (1)"];
+ b [label="347 records exported\n(max 30 per query; 17 for MED-v3)"];
+ c [label="296 unique records"];
+ d [label="51 duplicates removed\n(same DOI or PMID)", shape=box, style=dashed];
+ e [label="Title-level sorting (AI-assisted)\nP / I / N  - not a selection decision"];
+ f [label="Formal screening: not started\n(starts after the protocol is frozen)", style=dashed];
+ a -> b -> c -> e -> f; b -> d;
+}

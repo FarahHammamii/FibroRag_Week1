@@ -1,0 +1,21 @@
+digraph F {
+ graph [rankdir=TB, bgcolor="white", pad=.2, nodesep=.3, ranksep=.35];
+ node [shape=box, style="rounded", color="black", fontcolor="black", fontname="DejaVu Sans", fontsize=10];
+ edge [color="black", fontname="DejaVu Sans", fontsize=9];
+ corpus [label="Approved corpus\n(versions, passages, metadata)"];
+ index [label="Lexical + dense index"];
+ q [label="Academic question (FR/EN)"];
+ gate [label="Scope / safety filter"];
+ retrieve [label="Hybrid retrieval + RRF  (M1)"];
+ rank [label="Re-ranking by quality / applicability  (M2)"];
+ gen [label="Fixed LLM: claims + citations"];
+ verify [label="Check IDs, spans and support  (M3)"];
+ decision [shape=diamond, label="Enough\nevidence?"];
+ answer [label="Answer with sources"];
+ qualify [label="Partial answer\nwith clear limits"];
+ abstain [label="Explained refusal"];
+ corpus -> index; q -> gate; index -> retrieve;
+ gate -> retrieve [label="in scope"]; gate -> abstain [label="out of scope"];
+ retrieve -> rank -> gen -> verify -> decision;
+ decision -> answer [label="yes"]; decision -> qualify [label="partly"]; decision -> abstain [label="no"];
+}

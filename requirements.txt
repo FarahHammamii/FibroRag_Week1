@@ -1,0 +1,2 @@
+# Bibliographic search: Python >= 3.10, standard library only.
+# AI dependencies will be pinned once the models are chosen (from Week 3).
