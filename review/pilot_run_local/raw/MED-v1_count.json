@@ -1,0 +1,14 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "5273",
+    "retmax": "0",
+    "retstart": "0",
+    "idlist": [],
+    "translationset": [],
+    "querytranslation": "\"uterine fibroids\"[Title/Abstract]"
+  }
+}

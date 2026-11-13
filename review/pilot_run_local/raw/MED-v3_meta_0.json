@@ -1,0 +1,2331 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "41896881",
+      "41712841",
+      "41438660",
+      "41023967",
+      "39811050",
+      "39756604",
+      "39441157",
+      "39032352",
+      "38567479",
+      "38172926",
+      "37596689",
+      "37054542",
+      "36187039",
+      "34094614",
+      "29610643",
+      "28109392",
+      "27631636"
+    ],
+    "41896881": {
+      "uid": "41896881",
+      "pubdate": "2026 Mar 27",
+      "epubdate": "2026 Mar 27",
+      "source": "BMC Womens Health",
+      "authors": [
+        {
+          "name": "Ben Ismail I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zenaidi H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mlika M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Amari R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sghaier M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rebii S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zoghlami A",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Zoghlami A",
+      "title": "Uterine leiomyoma mimicking a gastrointestinal stromal tumor: a diagnostic pitfall of CD117 positivity - case report and review of the literature.",
+      "sorttitle": "uterine leiomyoma mimicking a gastrointestinal stromal tumor a diagnostic pitfall of cd117 positivity case report and review of the literature",
+      "volume": "26",
+      "issue": "1",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101088690",
+      "issn": "",
+      "essn": "1472-6874",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41896881"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13147736"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13147736;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1186/s12905-026-04427-w"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1186/s12905-026-04427-w"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/11/14 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/03/24 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/06/27 12:39"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/03/28 06:39"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/03/28 01:06"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/03/27 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 17,
+      "fulljournalname": "BMC women's health",
+      "elocationid": "doi: 10.1186/s12905-026-04427-w",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/03/27 00:00",
+      "sortfirstauthor": "Ben Ismail I",
+      "vernaculartitle": ""
+    },
+    "41712841": {
+      "uid": "41712841",
+      "pubdate": "2025 Mar 5",
+      "epubdate": "2025 Mar 5",
+      "source": "Tunis Med",
+      "authors": [
+        {
+          "name": "Abid S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Derouiche M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Abdelmoula G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ben Rejeb O",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Boughizane S",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Boughizane S",
+      "title": "Giant uterine fibroid complicated by aseptic necrobiosis and cutaneous fistulation: A case report and brief review of literature.",
+      "sorttitle": "giant uterine fibroid complicated by aseptic necrobiosis and cutaneous fistulation a case report and brief review of literature",
+      "volume": "103",
+      "issue": "3",
+      "pages": "388-392",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0413766",
+      "issn": "0041-4131",
+      "essn": "2724-7031",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41712841"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13690072"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13690072;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.62438/tunismed.v103i3.5443"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "/article/view/5443"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2024/09/23 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2024/12/10 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/02/19 19:03"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/02/19 19:02"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/02/19 15:42"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2025/03/02 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 16,
+      "fulljournalname": "La Tunisie medicale",
+      "elocationid": "doi: 10.62438/tunismed.v103i3.5443",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/03/05 00:00",
+      "sortfirstauthor": "Abid S",
+      "vernaculartitle": ""
+    },
+    "41438660": {
+      "uid": "41438660",
+      "pubdate": "2026 Feb",
+      "epubdate": "2025 Dec 4",
+      "source": "Radiol Case Rep",
+      "authors": [
+        {
+          "name": "Jaafar W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chiba Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Medemagh M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gabbouj S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bouassida M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Khalifa N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ganzoui I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mourali M",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Mourali M",
+      "title": "FH-deficient uterine leiomyoma: A rare case report highlighting diagnostic and clinical challenges.",
+      "sorttitle": "fh deficient uterine leiomyoma a rare case report highlighting diagnostic and clinical challenges",
+      "volume": "21",
+      "issue": "2",
+      "pages": "929-933",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101467888",
+      "issn": "1930-0433",
+      "essn": "1930-0433",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "258",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41438660"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12720321"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12720321;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.radcr.2025.11.001"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1930-0433(25)01016-7"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/09/14 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/10/30 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/11/04 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/24 07:44"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/24 07:43"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/24 04:53"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2025/12/04 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 9,
+      "fulljournalname": "Radiology case reports",
+      "elocationid": "doi: 10.1016/j.radcr.2025.11.001",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/12/04 00:00",
+      "sortfirstauthor": "Jaafar W",
+      "vernaculartitle": ""
+    },
+    "41023967": {
+      "uid": "41023967",
+      "pubdate": "2025 Sep 29",
+      "epubdate": "2025 Sep 29",
+      "source": "BMC Womens Health",
+      "authors": [
+        {
+          "name": "Ahmed WM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Maatoug J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Al-Dahshan A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sweilim A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bougmiza I",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Bougmiza I",
+      "title": "Uterine fibroids in women of childbearing age: a cross-sectional study at the primary health care corporation in Qatar.",
+      "sorttitle": "uterine fibroids in women of childbearing age a cross sectional study at the primary health care corporation in qatar",
+      "volume": "25",
+      "issue": "1",
+      "pages": "453",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101088690",
+      "issn": "",
+      "essn": "1472-6874",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41023967"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12482800"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12482800;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1186/s12905-025-04004-7"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1186/s12905-025-04004-7"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/03/29 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/08/26 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/09/30 06:39"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/09/30 06:38"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/09/30 00:36"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2025/09/29 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 25,
+      "fulljournalname": "BMC women's health",
+      "elocationid": "doi: 10.1186/s12905-025-04004-7",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/09/29 00:00",
+      "sortfirstauthor": "Ahmed WM",
+      "vernaculartitle": ""
+    },
+    "39811050": {
+      "uid": "39811050",
+      "pubdate": "2025 Mar",
+      "epubdate": "2024 Dec 20",
+      "source": "Radiol Case Rep",
+      "authors": [
+        {
+          "name": "Azouz E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Aloui H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Frikha H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rami H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Minjli S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Omri A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Baklouti M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Abouda HS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Channoufi MB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Karoui A",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Karoui A",
+      "title": "Intraperitoneal rupture of a degenerated uterine fibroid during pregnancy: A case report and literature review.",
+      "sorttitle": "intraperitoneal rupture of a degenerated uterine fibroid during pregnancy a case report and literature review",
+      "volume": "20",
+      "issue": "3",
+      "pages": "1452-1455",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101467888",
+      "issn": "1930-0433",
+      "essn": "1930-0433",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "258",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39811050"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11730542"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11730542;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.radcr.2024.11.073"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1930-0433(24)01338-4"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2024/09/03 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2024/11/11 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2024/11/22 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/01/15 06:22"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/01/15 06:21"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/01/15 04:39"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2024/12/20 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 5,
+      "fulljournalname": "Radiology case reports",
+      "elocationid": "doi: 10.1016/j.radcr.2024.11.073",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2024/12/20 00:00",
+      "sortfirstauthor": "Azouz E",
+      "vernaculartitle": ""
+    },
+    "39756604": {
+      "uid": "39756604",
+      "pubdate": "2025 May",
+      "epubdate": "2025 Jan 4",
+      "source": "Am J Obstet Gynecol",
+      "authors": [
+        {
+          "name": "Boughizane S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "El Mhabrech H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ben Khalifa A",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Ben Khalifa A",
+      "title": "A new uterine leiomyoma location: within a cesarean scar niche.",
+      "sorttitle": "new uterine leiomyoma location within a cesarean scar niche",
+      "volume": "232",
+      "issue": "5",
+      "pages": "496-498",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0370476",
+      "issn": "0002-9378",
+      "essn": "1097-6868",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - in process",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39756604"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.ajog.2025.01.002"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0002-9378(25)00002-X"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2024/10/12 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2024/12/30 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/01/01 00:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/01/06 10:07"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/01/06 10:07"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/01/05 19:15"
+        }
+      ],
+      "references": [],
+      "attributes": [],
+      "pmcrefcount": "",
+      "fulljournalname": "American journal of obstetrics and gynecology",
+      "elocationid": "doi: 10.1016/j.ajog.2025.01.002",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/05/01 00:00",
+      "sortfirstauthor": "Boughizane S",
+      "vernaculartitle": ""
+    },
+    "39441157": {
+      "uid": "39441157",
+      "pubdate": "2024 Oct 5",
+      "epubdate": "2024 Oct 5",
+      "source": "Tunis Med",
+      "authors": [
+        {
+          "name": "Magdoud K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Karoui A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Boujelbene N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ben Hmid R",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Ben Hmid R",
+      "title": "Intravenous Leiomyomatosis of the Uterus: An Intriguing Case Revealed through Anatomopathological Examination.",
+      "sorttitle": "intravenous leiomyomatosis of the uterus an intriguing case revealed through anatomopathological examination",
+      "volume": "102",
+      "issue": "10",
+      "pages": "722-724",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0413766",
+      "issn": "0041-4131",
+      "essn": "2724-7031",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39441157"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11574368"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11574368;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.62438/tunismed.v102i10.5139"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2024/06/07 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2024/08/03 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2024/10/23 18:21"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2024/10/23 16:18"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2024/10/23 10:32"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2024/10/05 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 10,
+      "fulljournalname": "La Tunisie medicale",
+      "elocationid": "doi: 10.62438/tunismed.v102i10.5139",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2024/10/05 00:00",
+      "sortfirstauthor": "Magdoud K",
+      "vernaculartitle": ""
+    },
+    "39032352": {
+      "uid": "39032352",
+      "pubdate": "2024 Sep",
+      "epubdate": "2024 May 21",
+      "source": "Int J Surg Case Rep",
+      "authors": [
+        {
+          "name": "Khaoula M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Slama F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dhaoui S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Khayati W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sana M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Abir K",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Abir K",
+      "title": "Uterine leiomyoma torsion: A rare cause of acute abdominal pain.",
+      "sorttitle": "uterine leiomyoma torsion a rare cause of acute abdominal pain",
+      "volume": "122",
+      "issue": "",
+      "pages": "109788",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101529872",
+      "issn": "2210-2612",
+      "essn": "2210-2612",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39032352"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11315058"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11315058;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.ijscr.2024.109788"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S2210-2612(24)00569-8"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2024/04/19 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2024/05/15 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2024/05/17 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2024/07/21 15:44"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2024/07/21 15:43"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2024/07/20 18:06"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2024/05/21 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 15,
+      "fulljournalname": "International journal of surgery case reports",
+      "elocationid": "doi: 10.1016/j.ijscr.2024.109788",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2024/09/01 00:00",
+      "sortfirstauthor": "Khaoula M",
+      "vernaculartitle": ""
+    },
+    "38567479": {
+      "uid": "38567479",
+      "pubdate": "2024 Feb 5",
+      "epubdate": "2024 Feb 5",
+      "source": "Tunis Med",
+      "authors": [
+        {
+          "name": "Belghith C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Abdelmoula G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Garci M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ghali Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Armi S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Makni M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dhieb F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Boumediene M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jrad M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mathlouthi N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Slimani O",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Slimani O",
+      "title": "Nonpuerperal uterine inversion caused by an adenosarcoma: A case report.",
+      "sorttitle": "nonpuerperal uterine inversion caused by an adenosarcoma a case report",
+      "volume": "102",
+      "issue": "2",
+      "pages": "116-118",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0413766",
+      "issn": "0041-4131",
+      "essn": "2724-7031",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38567479"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11358781"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11358781;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.62438/tunismed.v102i2.4352"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "/article/view/4352"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2023/11/27 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2024/01/29 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2024/04/04 06:45"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2024/04/03 06:45"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2024/04/03 04:43"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2023/02/05 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 10,
+      "fulljournalname": "La Tunisie medicale",
+      "elocationid": "doi: 10.62438/tunismed.v102i2.4352",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2024/02/05 00:00",
+      "sortfirstauthor": "Belghith C",
+      "vernaculartitle": ""
+    },
+    "38172926": {
+      "uid": "38172926",
+      "pubdate": "2024 Jan 3",
+      "epubdate": "2024 Jan 3",
+      "source": "Diagn Pathol",
+      "authors": [
+        {
+          "name": "Chouchane A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Boughizane S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nouira M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Remadi S",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Remadi S",
+      "title": "Benign Metastasizing Leiomyoma: New insights into a rare disease with an obscure etiopathogenesis.",
+      "sorttitle": "benign metastasizing leiomyoma new insights into a rare disease with an obscure etiopathogenesis",
+      "volume": "19",
+      "issue": "1",
+      "pages": "2",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101251558",
+      "issn": "",
+      "essn": "1746-1596",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38172926"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10765933"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10765933;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1186/s13000-023-01427-4"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1186/s13000-023-01427-4"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2023/09/06 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2023/12/11 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2024/01/05 06:43"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2024/01/04 11:44"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2024/01/03 23:58"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2024/01/03 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 18,
+      "fulljournalname": "Diagnostic pathology",
+      "elocationid": "doi: 10.1186/s13000-023-01427-4",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2024/01/03 00:00",
+      "sortfirstauthor": "Chouchane A",
+      "vernaculartitle": ""
+    },
+    "37596689": {
+      "uid": "37596689",
+      "pubdate": "2023 Aug 18",
+      "epubdate": "2023 Aug 18",
+      "source": "J Med Case Rep",
+      "authors": [
+        {
+          "name": "Atri S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hammami M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ben Brahim M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Maghrebi H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kacem M",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Kacem M",
+      "title": "A uterine fibroid presenting as an incarcerated epigastric hernia: a case report and review of the literature.",
+      "sorttitle": "uterine fibroid presenting as an incarcerated epigastric hernia a case report and review of the literature",
+      "volume": "17",
+      "issue": "1",
+      "pages": "370",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101293382",
+      "issn": "",
+      "essn": "1752-1947",
+      "pubtype": [
+        "Review",
+        "Case Reports",
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37596689"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10436552"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10436552;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1186/s13256-023-04032-7"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1186/s13256-023-04032-7"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2023/05/06 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2023/06/08 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2023/08/21 06:43"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2023/08/19 11:41"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2023/08/18 23:44"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2023/08/18 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 6,
+      "fulljournalname": "Journal of medical case reports",
+      "elocationid": "doi: 10.1186/s13256-023-04032-7",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2023/08/18 00:00",
+      "sortfirstauthor": "Atri S",
+      "vernaculartitle": ""
+    },
+    "37054542": {
+      "uid": "37054542",
+      "pubdate": "2023 May",
+      "epubdate": "2023 Apr 7",
+      "source": "Int J Surg Case Rep",
+      "authors": [
+        {
+          "name": "Zemni I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Aloui M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Saadallah F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mansouri H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chargui R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ben Dhiab T",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Ben Dhiab T",
+      "title": "A huge prolapsed cervical leiomyoma: A case report.",
+      "sorttitle": "huge prolapsed cervical leiomyoma a case report",
+      "volume": "106",
+      "issue": "",
+      "pages": "108139",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101529872",
+      "issn": "2210-2612",
+      "essn": "2210-2612",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37054542"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10139963"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10139963;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.ijscr.2023.108139"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S2210-2612(23)00267-5"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2023/01/06 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2023/03/03 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2023/03/16 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2023/04/14 06:01"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2023/04/14 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2023/04/13 18:04"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2023/04/07 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 20,
+      "fulljournalname": "International journal of surgery case reports",
+      "elocationid": "doi: 10.1016/j.ijscr.2023.108139",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2023/05/01 00:00",
+      "sortfirstauthor": "Zemni I",
+      "vernaculartitle": ""
+    },
+    "36187039": {
+      "uid": "36187039",
+      "pubdate": "2022",
+      "epubdate": "2022 Jun 27",
+      "source": "Pan Afr Med J",
+      "authors": [
+        {
+          "name": "Abid S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dhaou GB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Abdelmoula G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Smida AB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Abdesslem MRB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mrad O",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Derouiche M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lassoued L",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Lassoued L",
+      "title": "Complete non-puerperal uterine inversion caused by uterine hemangioma: about a case report.",
+      "sorttitle": "complete non puerperal uterine inversion caused by uterine hemangioma about a case report",
+      "volume": "42",
+      "issue": "",
+      "pages": "156",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101517926",
+      "issn": "",
+      "essn": "1937-8688",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "258",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "36187039"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC9482224"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC9482224;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.11604/pamj.2022.42.156.35583"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "PAMJ-42-156"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2022/05/23 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2022/06/10 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2022/10/03 04:44"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2022/10/04 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2022/10/05 06:00"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2022/06/27 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 8,
+      "fulljournalname": "The Pan African medical journal",
+      "elocationid": "doi: 10.11604/pamj.2022.42.156.35583",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2022/06/27 00:00",
+      "sortfirstauthor": "Abid S",
+      "vernaculartitle": ""
+    },
+    "34094614": {
+      "uid": "34094614",
+      "pubdate": "2021",
+      "epubdate": "2021 May 21",
+      "source": "Case Rep Surg",
+      "authors": [
+        {
+          "name": "Ennaceur F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Toumi D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jaouad F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mabrouk A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hajji A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gara M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chamakh A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zouari I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Maatouk M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Daldoul S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sayari S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Haouet K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Safta YB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Faleh R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Moussa MB",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Moussa MB",
+      "title": "Primary Echinococcus Hydatid Cyst of the Uterus: An Unusual Location.",
+      "sorttitle": "primary echinococcus hydatid cyst of the uterus an unusual location",
+      "volume": "2021",
+      "issue": "",
+      "pages": "9977326",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101580191",
+      "issn": "2090-6900",
+      "essn": "2090-6919",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "258",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "34094614"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC8163547"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC8163547;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1155/2021/9977326"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2021/04/04 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2021/05/14 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2021/06/07 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2021/06/08 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2021/06/08 06:01"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2021/05/21 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 11,
+      "fulljournalname": "Case reports in surgery",
+      "elocationid": "doi: 10.1155/2021/9977326",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2021/05/21 00:00",
+      "sortfirstauthor": "Ennaceur F",
+      "vernaculartitle": ""
+    },
+    "29610643": {
+      "uid": "29610643",
+      "pubdate": "2017",
+      "epubdate": "2017 Nov 7",
+      "source": "Pan Afr Med J",
+      "authors": [
+        {
+          "name": "Jenayah AA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Saoudi S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sferi N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Skander R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Marzouk SB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cherni A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sfar E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chelli D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Boudaya F",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Boudaya F",
+      "title": "Spontaneous subserosal venous rupture overlying a uterine leiomyoma in a young woman.",
+      "sorttitle": "spontaneous subserosal venous rupture overlying a uterine leiomyoma in a young woman",
+      "volume": "28",
+      "issue": "",
+      "pages": "205",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101517926",
+      "issn": "",
+      "essn": "1937-8688",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "258",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "29610643"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC5878847"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC5878847;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.11604/pamj.2017.28.205.12135"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "PAMJ-28-205"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2017/03/01 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2017/06/12 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2018/04/04 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2018/04/04 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2018/05/02 06:00"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2017/11/07 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 5,
+      "fulljournalname": "The Pan African medical journal",
+      "elocationid": "doi: 10.11604/pamj.2017.28.205.12135",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2017/11/07 00:00",
+      "sortfirstauthor": "Jenayah AA",
+      "vernaculartitle": ""
+    },
+    "28109392": {
+      "uid": "28109392",
+      "pubdate": "2017 Feb",
+      "epubdate": "",
+      "source": "Ann Thorac Surg",
+      "authors": [
+        {
+          "name": "Tarmiz A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mgarrech I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Besbes T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kortas C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jerbi S",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Jerbi S",
+      "title": "Alien-Shaped Intracardiac Leiomyoma.",
+      "sorttitle": "alien shaped intracardiac leiomyoma",
+      "volume": "103",
+      "issue": "2",
+      "pages": "e201",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "15030100R",
+      "issn": "0003-4975",
+      "essn": "1552-6259",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article",
+        "Video-Audio Media"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "28109392"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.athoracsur.2016.09.027"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0003-4975(16)31278-4"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2016/08/24 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2016/09/02 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2017/01/23 06:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2017/01/23 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2017/04/07 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [],
+      "pmcrefcount": "",
+      "fulljournalname": "The Annals of thoracic surgery",
+      "elocationid": "doi: 10.1016/j.athoracsur.2016.09.027",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2017/02/01 00:00",
+      "sortfirstauthor": "Tarmiz A",
+      "vernaculartitle": ""
+    },
+    "27631636": {
+      "uid": "27631636",
+      "pubdate": "2016 Dec",
+      "epubdate": "2016 Sep 8",
+      "source": "Lung",
+      "authors": [
+        {
+          "name": "Alimi F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "El Hadj Sidi C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ghannouchi C",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Ghannouchi C",
+      "title": "Cystic Benign Metastasizing Leiomyoma of the Lung Mimicking Hydatid Cyst.",
+      "sorttitle": "cystic benign metastasizing leiomyoma of the lung mimicking hydatid cyst",
+      "volume": "194",
+      "issue": "6",
+      "pages": "1029-1030",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7701875",
+      "issn": "0341-2040",
+      "essn": "1432-1750",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "27631636"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s00408-016-9938-4"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1007/s00408-016-9938-4"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2016/06/19 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2016/09/02 00:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2016/11/04 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2018/01/16 06:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2016/09/16 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Lung",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2016/12/01 00:00",
+      "sortfirstauthor": "Alimi F",
+      "vernaculartitle": ""
+    }
+  }
+}

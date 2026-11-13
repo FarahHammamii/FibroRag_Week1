@@ -1,0 +1,122 @@
+[
+  {
+    "id": "MED-v1",
+    "base": "PubMed",
+    "query": "uterine fibroids[Title/Abstract]",
+    "date_utc": "2026-11-12T10:25:53.742981+00:00",
+    "count": 5273,
+    "n_export": 30,
+    "status": "ok",
+    "error": ""
+  },
+  {
+    "id": "MED-v2",
+    "base": "PubMed",
+    "query": "((\"Leiomyoma\"[MeSH Terms] AND \"Uterine Neoplasms\"[MeSH Terms]) OR \"uterine fibroid*\"[tiab] OR \"uterine leiomyoma*\"[tiab] OR \"uterine myoma*\"[tiab] OR \"fibrome* utérin*\"[tiab] OR \"uterine fibromyoma*\"[tiab]) AND (guideline[pt] OR practice guideline[pt] OR systematic review[pt] OR meta-analysis[pt]) AND (\"2016/01/01\"[dp] : \"2026/11/12\"[dp])",
+    "date_utc": "2026-11-12T10:26:01.267596+00:00",
+    "count": 317,
+    "n_export": 30,
+    "status": "ok",
+    "error": ""
+  },
+  {
+    "id": "MED-v3",
+    "base": "PubMed",
+    "query": "((\"Leiomyoma\"[MeSH Terms] AND \"Uterine Neoplasms\"[MeSH Terms]) OR \"uterine fibroid*\"[tiab] OR \"uterine leiomyoma*\"[tiab] OR \"uterine myoma*\"[tiab] OR \"fibrome* utérin*\"[tiab] OR \"uterine fibromyoma*\"[tiab]) AND (Tunisia[tiab] OR Tunisia[ad] OR \"Tunisia\"[MeSH Terms]) AND (\"2016/01/01\"[dp] : \"2026/11/12\"[dp])",
+    "date_utc": "2026-11-12T10:26:28.640893+00:00",
+    "count": 17,
+    "n_export": 17,
+    "status": "ok",
+    "error": ""
+  },
+  {
+    "id": "MED-v4",
+    "base": "PubMed",
+    "query": "((\"Leiomyoma\"[MeSH Terms] AND \"Uterine Neoplasms\"[MeSH Terms]) OR \"uterine fibroid*\"[tiab] OR \"uterine leiomyoma*\"[tiab] OR \"uterine myoma*\"[tiab] OR \"fibrome* utérin*\"[tiab] OR \"uterine fibromyoma*\"[tiab]) AND (fertility[tiab] OR infertility[tiab] OR myomectomy[tiab] OR embolization[tiab]) AND randomized controlled trial[pt] AND (\"2016/01/01\"[dp] : \"2026/11/12\"[dp])",
+    "date_utc": "2026-11-12T10:26:36.180928+00:00",
+    "count": 82,
+    "n_export": 30,
+    "status": "ok",
+    "error": ""
+  },
+  {
+    "id": "TECH-v1",
+    "base": "PubMed",
+    "query": "\"retrieval-augmented generation\"[Title/Abstract] AND (medical[Title/Abstract] OR clinical[Title/Abstract])",
+    "date_utc": "2026-11-12T10:26:41.124449+00:00",
+    "count": 751,
+    "n_export": 30,
+    "status": "ok",
+    "error": ""
+  },
+  {
+    "id": "TECH-v2",
+    "base": "PubMed",
+    "query": "(\"retrieval augmented generation\"[tiab] OR \"retrieval-augmented generation\"[tiab]) AND (medical[tiab] OR biomedical[tiab] OR clinical[tiab]) AND (\"2023/01/01\"[dp] : \"2026/11/12\"[dp])",
+    "date_utc": "2026-11-12T10:26:47.972794+00:00",
+    "count": 803,
+    "n_export": 30,
+    "status": "ok",
+    "error": ""
+  },
+  {
+    "id": "TECH-v3",
+    "base": "OpenAlex",
+    "query": "medical retrieval augmented generation",
+    "date_utc": "2026-11-12T10:27:02.318395+00:00",
+    "count": 51841,
+    "n_export": 30,
+    "status": "ok",
+    "error": ""
+  },
+  {
+    "id": "TECH-v4",
+    "base": "OpenAlex",
+    "query": "medical question answering citation verification abstention",
+    "date_utc": "2026-11-12T10:27:06.023762+00:00",
+    "count": 599,
+    "n_export": 30,
+    "status": "ok",
+    "error": ""
+  },
+  {
+    "id": "TECH-v5",
+    "base": "OpenAlex",
+    "query": "medical question answering abstention uncertainty",
+    "date_utc": "2026-11-12T10:27:13.765549+00:00",
+    "count": 2050,
+    "n_export": 30,
+    "status": "ok",
+    "error": ""
+  },
+  {
+    "id": "TECH-v6",
+    "base": "OpenAlex",
+    "query": "retrieval augmented generation citation attribution factuality",
+    "date_utc": "2026-11-12T10:27:36.766482+00:00",
+    "count": 3075,
+    "n_export": 30,
+    "status": "ok",
+    "error": ""
+  },
+  {
+    "id": "TECH-v7",
+    "base": "OpenAlex",
+    "query": "multilingual medical question answering retrieval",
+    "date_utc": "2026-11-12T10:28:06.967915+00:00",
+    "count": 13188,
+    "n_export": 30,
+    "status": "ok",
+    "error": ""
+  },
+  {
+    "id": "MED-v5",
+    "base": "Europe PMC",
+    "query": "(TITLE_ABS:\"uterine fibroids\" OR TITLE_ABS:\"uterine leiomyoma\" OR TITLE_ABS:\"uterine myoma\") AND FIRST_PDATE:[2016-01-01 TO 2026-11-12] AND (PUB_TYPE:\"systematic review\" OR PUB_TYPE:\"practice guideline\" OR PUB_TYPE:guideline)",
+    "date_utc": "2026-11-12T10:28:26.823978+00:00",
+    "count": 164,
+    "n_export": 30,
+    "status": "ok",
+    "error": ""
+  }
+]

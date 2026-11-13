@@ -1,0 +1,3861 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "43013841",
+      "43011704",
+      "43011168",
+      "43010075",
+      "43003299",
+      "43002664",
+      "42994600",
+      "42993957",
+      "42993682",
+      "42992190",
+      "42990834",
+      "42990457",
+      "42986508",
+      "42986217",
+      "42985448",
+      "42978596",
+      "42978152",
+      "42976380",
+      "42973777",
+      "42964527",
+      "42963884",
+      "42962066",
+      "42959185",
+      "42953604",
+      "42952607",
+      "42952574",
+      "42948771",
+      "42940443",
+      "42938952",
+      "42932700"
+    ],
+    "43013841": {
+      "uid": "43013841",
+      "pubdate": "2026 Nov 11",
+      "epubdate": "2026 Nov 11",
+      "source": "JMIR AI",
+      "authors": [
+        {
+          "name": "Mikkelsen Y",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Mikkelsen Y",
+      "title": "Cross-Site Stability of Embedding Model Rankings for Known-Item Retrieval From Clinical Notes: Two-Corpus Comparative Evaluation Study.",
+      "sorttitle": "cross site stability of embedding model rankings for known item retrieval from clinical notes two corpus comparative evaluation study",
+      "volume": "5",
+      "issue": "",
+      "pages": "e109305",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9918645789006676",
+      "issn": "",
+      "essn": "2817-1705",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "43013841"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.2196/109305"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "v5i1e109305"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2026/08/11 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/10/13 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/10/09 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/11/11 17:32"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/11/11 17:31"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/11/11 16:53"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "JMIR AI",
+      "elocationid": "doi: 10.2196/109305",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/11/11 00:00",
+      "sortfirstauthor": "Mikkelsen Y",
+      "vernaculartitle": ""
+    },
+    "43011704": {
+      "uid": "43011704",
+      "pubdate": "2026 Dec",
+      "epubdate": "2026 Sep 24",
+      "source": "Meta Radiol",
+      "authors": [
+        {
+          "name": "Ding Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wei S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Holmes J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hao Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cui J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cao M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jiang C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhao L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu W",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Liu W",
+      "title": "Applications of large language models in radiation oncology: From workflow automation to clinical intelligence.",
+      "sorttitle": "applications of large language models in radiation oncology from workflow automation to clinical intelligence",
+      "volume": "4",
+      "issue": "4",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9918697480806676",
+      "issn": "",
+      "essn": "2950-1628",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "43011704"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13750843"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13750843;manuscript-id: NIHMS2221554;embargo-date: 2026/12/01;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.metrad.2026.100244"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "100244"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS2221554"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2026/11/11 11:38"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/11/11 11:37"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/11/11 05:47"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/12/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract",
+        "Embargoed in PMC"
+      ],
+      "pmcrefcount": 93,
+      "fulljournalname": "Meta-radiology",
+      "elocationid": "pii: 100244. doi: 10.1016/j.metrad.2026.100244",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/12/01 00:00",
+      "sortfirstauthor": "Ding Y",
+      "vernaculartitle": ""
+    },
+    "43011168": {
+      "uid": "43011168",
+      "pubdate": "2026",
+      "epubdate": "2026 Oct 27",
+      "source": "Front Digit Health",
+      "authors": [
+        {
+          "name": "Morales-Cevallos MB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ma Lam CB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Serrano Avalos KV",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Concha Guailla MJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Vique Lopez DF",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Vique Lopez DF",
+      "title": "Artificial intelligence in odontology education.",
+      "sorttitle": "artificial intelligence in odontology education",
+      "volume": "8",
+      "issue": "",
+      "pages": "1965185",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101771889",
+      "issn": "",
+      "essn": "2673-253X",
+      "pubtype": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "258",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "43011168"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13748459"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13748459;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3389/fdgth.2026.1965185"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2026/08/12 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/09/09 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/09/23 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/11/11 11:38"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/11/11 11:37"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/11/11 05:12"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/10/27 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 115,
+      "fulljournalname": "Frontiers in digital health",
+      "elocationid": "doi: 10.3389/fdgth.2026.1965185",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/10/27 00:00",
+      "sortfirstauthor": "Morales-Cevallos MB",
+      "vernaculartitle": ""
+    },
+    "43010075": {
+      "uid": "43010075",
+      "pubdate": "2026 Aug 12",
+      "epubdate": "2026 Aug 12",
+      "source": "J Biomed Semantics",
+      "authors": [
+        {
+          "name": "Punuru P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ibtehaz N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Giri S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Srirangam H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tugolukova E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kihara D",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Kihara D",
+      "title": "Queryome: orchestrating retrieval, reasoning, and synthesis across biomedical literature.",
+      "sorttitle": "queryome orchestrating retrieval reasoning and synthesis across biomedical literature",
+      "volume": "17",
+      "issue": "1",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101531992",
+      "issn": "",
+      "essn": "2041-1480",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "43010075"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1186/s13326-026-00366-5"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1186/s13326-026-00366-5"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13753148"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13753148;"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2026/04/24 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/08/06 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/11/11 11:34"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/11/11 11:33"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/11/10 23:52"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/08/12 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 76,
+      "fulljournalname": "Journal of biomedical semantics",
+      "elocationid": "doi: 10.1186/s13326-026-00366-5",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/08/12 00:00",
+      "sortfirstauthor": "Punuru P",
+      "vernaculartitle": ""
+    },
+    "43003299": {
+      "uid": "43003299",
+      "pubdate": "2026 Nov 9",
+      "epubdate": "2026 Nov 9",
+      "source": "J Adv Res",
+      "authors": [
+        {
+          "name": "Xiao W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhou Q",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yang Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wu Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xu G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhao Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shen C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen W",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Chen W",
+      "title": "GPCRAgent: an intelligent multi-agent platform integrating knowledge graphs and large language models for GPCR-targeted drug discovery.",
+      "sorttitle": "gpcragent an intelligent multi agent platform integrating knowledge graphs and large language models for gpcr targeted drug discovery",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101546952",
+      "issn": "",
+      "essn": "2090-1224",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - as supplied by publisher",
+      "pubstatus": "10",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "43003299"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jare.2026.11.006"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S2090-1232(26)00892-1"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2026/06/28 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/09/21 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/11/07 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/11/09 23:27"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/11/09 23:27"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/11/09 19:33"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of advanced research",
+      "elocationid": "pii: S2090-1232(26)00892-1. doi: 10.1016/j.jare.2026.11.006",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/11/09 00:00",
+      "sortfirstauthor": "Xiao W",
+      "vernaculartitle": ""
+    },
+    "43002664": {
+      "uid": "43002664",
+      "pubdate": "2026 Nov 9",
+      "epubdate": "2026 Nov 9",
+      "source": "J Med Internet Res",
+      "authors": [
+        {
+          "name": "Kuang T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sun Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhou J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wu Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Peng B",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Peng B",
+      "title": "PancreaGuide for Computed Tomography Report Interpretation and Perioperative Consultation in Pancreatic Cancer: Development and Retrospective Evaluation of a Knowledge-Augmented Large Language Model Agent.",
+      "sorttitle": "pancreaguide for computed tomography report interpretation and perioperative consultation in pancreatic cancer development and retrospective evaluation of a knowledge augmented large language model agent",
+      "volume": "28",
+      "issue": "",
+      "pages": "e101607",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "100959882",
+      "issn": "1439-4456",
+      "essn": "1438-8871",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "43002664"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.2196/101607"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "v28i1e101607"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13747220"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13747220;"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2026/05/17 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/08/11 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/08/20 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/11/09 17:31"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/11/09 17:30"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/11/09 14:43"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/11/09 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 35,
+      "fulljournalname": "Journal of medical Internet research",
+      "elocationid": "doi: 10.2196/101607",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/11/09 00:00",
+      "sortfirstauthor": "Kuang T",
+      "vernaculartitle": ""
+    },
+    "42994600": {
+      "uid": "42994600",
+      "pubdate": "2026 Nov 6",
+      "epubdate": "2026 Nov 6",
+      "source": "Travel Med Infect Dis",
+      "authors": [
+        {
+          "name": "Di Palma L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Droghetti C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Iaccarino K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fouladi S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Castiglioni I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ali M",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Ali M",
+      "title": "An AI-Driven System for Travel Vaccination Guidance using Agentic Retrieval Augmented Generation (RAG).",
+      "sorttitle": "ai driven system for travel vaccination guidance using agentic retrieval augmented generation rag",
+      "volume": "",
+      "issue": "",
+      "pages": "103036",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101230758",
+      "issn": "1477-8939",
+      "essn": "1873-0442",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - as supplied by publisher",
+      "pubstatus": "10",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42994600"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.tmaid.2026.103036"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1477-8939(26)00086-4"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2026/04/23 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/11/03 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/11/05 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/11/06 23:29"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/11/06 23:29"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/11/06 19:30"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Travel medicine and infectious disease",
+      "elocationid": "doi: 10.1016/j.tmaid.2026.103036",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/11/06 00:00",
+      "sortfirstauthor": "Di Palma L",
+      "vernaculartitle": ""
+    },
+    "42993957": {
+      "uid": "42993957",
+      "pubdate": "2026 Nov 6",
+      "epubdate": "2026 Nov 6",
+      "source": "JMIR Cancer",
+      "authors": [
+        {
+          "name": "Olorunfemi T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rashid S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Khashayar P",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Khashayar P",
+      "title": "A Multilingual AI-Driven Conversational System for Cervical Cancer Awareness and Risk Assessment: Development and Evaluation Study.",
+      "sorttitle": "multilingual ai driven conversational system for cervical cancer awareness and risk assessment development and evaluation study",
+      "volume": "12",
+      "issue": "",
+      "pages": "e103866",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101666844",
+      "issn": "",
+      "essn": "2369-1999",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42993957"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.2196/103866"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "v12i1e103866"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2026/06/06 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/10/09 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/09/20 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/11/06 23:28"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/11/06 18:37"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/11/06 16:53"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "JMIR cancer",
+      "elocationid": "doi: 10.2196/103866",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/11/06 00:00",
+      "sortfirstauthor": "Olorunfemi T",
+      "vernaculartitle": ""
+    },
+    "42993682": {
+      "uid": "42993682",
+      "pubdate": "2026 Dec 31",
+      "epubdate": "2026 Nov 6",
+      "source": "Med Educ Online",
+      "authors": [
+        {
+          "name": "Heydari S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Alavi ZS",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Alavi ZS",
+      "title": "Artificial intelligence hallucinations in large language models for medical education and healthcare: a scoping review of detection, mitigation, and governance.",
+      "sorttitle": "artificial intelligence hallucinations in large language models for medical education and healthcare a scoping review of detection mitigation and governance",
+      "volume": "31",
+      "issue": "1",
+      "pages": "2756806",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9806550",
+      "issn": "",
+      "essn": "1087-2981",
+      "pubtype": [
+        "Journal Article",
+        "Scoping Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42993682"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/10872981.2026.2756806"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2026/11/06 18:38"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/11/06 18:37"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/11/06 13:13"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Medical education online",
+      "elocationid": "doi: 10.1080/10872981.2026.2756806",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/12/31 00:00",
+      "sortfirstauthor": "Heydari S",
+      "vernaculartitle": ""
+    },
+    "42992190": {
+      "uid": "42992190",
+      "pubdate": "2026",
+      "epubdate": "2026 Nov 1",
+      "source": "J Multidiscip Healthc",
+      "authors": [
+        {
+          "name": "Hu W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cai Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sun L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Huang B",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Huang B",
+      "title": "Authentic Sources, Potentially Unsafe Conclusions: Evidence Traceability Does Not Ensure Clinical Reliability in Retrieval-Augmented Generation for Perioperative IBD.",
+      "sorttitle": "authentic sources potentially unsafe conclusions evidence traceability does not ensure clinical reliability in retrieval augmented generation for perioperative ibd",
+      "volume": "19",
+      "issue": "",
+      "pages": "640102",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101512691",
+      "issn": "1178-2390",
+      "essn": "1178-2390",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "258",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42992190"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13738261"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13738261;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.2147/JMDH.S640102"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "640102"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2026/07/14 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/10/24 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/11/06 11:34"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/11/06 11:33"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/11/06 07:14"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/11/01 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 29,
+      "fulljournalname": "Journal of multidisciplinary healthcare",
+      "elocationid": "doi: 10.2147/JMDH.S640102",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/11/01 00:00",
+      "sortfirstauthor": "Hu W",
+      "vernaculartitle": ""
+    },
+    "42990834": {
+      "uid": "42990834",
+      "pubdate": "2026",
+      "epubdate": "2026 Nov 2",
+      "source": "BMJ Digit Health Ai",
+      "authors": [
+        {
+          "name": "Sesen MB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yeung JA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Asgari E",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Asgari E",
+      "title": "Development and evaluation of Retrieval-Augmented Generation (RAG) and GraphRAG for guideline-based clinical decision support in chronic kidney disease.",
+      "sorttitle": "development and evaluation of retrieval augmented generation rag and graphrag for guideline based clinical decision support in chronic kidney disease",
+      "volume": "2",
+      "issue": "1",
+      "pages": "e000041",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9919254011806676",
+      "issn": "",
+      "essn": "3049-575X",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "258",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42990834"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13735396"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13735396;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1136/bmjdh-2026-000041"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "bmjdh-2026-000041"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/12/29 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/10/07 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/11/06 11:34"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/11/06 11:33"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/11/06 05:54"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/11/02 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 34,
+      "fulljournalname": "BMJ digital health & AI",
+      "elocationid": "doi: 10.1136/bmjdh-2026-000041",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/11/02 00:00",
+      "sortfirstauthor": "Sesen MB",
+      "vernaculartitle": ""
+    },
+    "42990457": {
+      "uid": "42990457",
+      "pubdate": "2026 Oct 29",
+      "epubdate": "2026 Oct 29",
+      "source": "medRxiv",
+      "authors": [
+        {
+          "name": "Ingebretsen SH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gouripeddi R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cummins MR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Facelli JC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shah-Mohammadi F",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Shah-Mohammadi F",
+      "title": "An Agentic AI Pipeline for an Evidence-Grounded Environmental Health Public Information System: Development and Evaluation.",
+      "sorttitle": "agentic ai pipeline for an evidence grounded environmental health public information system development and evaluation",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101767986",
+      "issn": "",
+      "essn": "",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42990457"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13734176"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13734176;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.64898/2026.10.26.26366549"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "2026.10.26.26366549"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2026/11/06 11:34"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/11/06 11:33"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/11/06 05:35"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/11/04 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "medRxiv : the preprint server for health sciences",
+      "elocationid": "pii: 2026.10.26.26366549. doi: 10.64898/2026.10.26.26366549",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/10/29 00:00",
+      "sortfirstauthor": "Ingebretsen SH",
+      "vernaculartitle": ""
+    },
+    "42986508": {
+      "uid": "42986508",
+      "pubdate": "2026 Nov 5",
+      "epubdate": "2026 Nov 5",
+      "source": "J Med Syst",
+      "authors": [
+        {
+          "name": "Guo S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wu H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ye Q",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Ye Q",
+      "title": "Can Retrieval-Augmented Generation Improve the Potential of the LLMs in Diabetes Health Management? An Assessment Based on Health Management Tasks and Question Complexity.",
+      "sorttitle": "can retrieval augmented generation improve the potential of the llms in diabetes health management an assessment based on health management tasks and question complexity",
+      "volume": "50",
+      "issue": "1",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7806056",
+      "issn": "0148-5598",
+      "essn": "1573-689X",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42986508"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s10916-026-02485-z"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1007/s10916-026-02485-z"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2024/12/28 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/10/29 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/11/05 18:32"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/11/05 18:31"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/11/05 11:27"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of medical systems",
+      "elocationid": "pii: 159. doi: 10.1007/s10916-026-02485-z",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/11/05 00:00",
+      "sortfirstauthor": "Guo S",
+      "vernaculartitle": ""
+    },
+    "42986217": {
+      "uid": "42986217",
+      "pubdate": "2026 Nov 5",
+      "epubdate": "2026 Nov 5",
+      "source": "J Med Internet Res",
+      "authors": [
+        {
+          "name": "Chen M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ma A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lyu C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "He Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xu Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cheng D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang L",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Wang L",
+      "title": "Applications, Technical Characteristics, and Evaluation Approaches of Retrieval-Augmented Generation in Nursing: Scoping Review.",
+      "sorttitle": "applications technical characteristics and evaluation approaches of retrieval augmented generation in nursing scoping review",
+      "volume": "28",
+      "issue": "",
+      "pages": "e98495",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "100959882",
+      "issn": "1439-4456",
+      "essn": "1438-8871",
+      "pubtype": [
+        "Journal Article",
+        "Scoping Review",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42986217"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13738005"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13738005;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.2196/98495"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "v28i1e98495"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2026/04/16 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/09/19 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/09/22 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/11/05 11:47"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/11/05 11:46"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/11/05 10:13"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/11/05 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 73,
+      "fulljournalname": "Journal of medical Internet research",
+      "elocationid": "doi: 10.2196/98495",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/11/05 00:00",
+      "sortfirstauthor": "Chen M",
+      "vernaculartitle": ""
+    },
+    "42985448": {
+      "uid": "42985448",
+      "pubdate": "2026 Nov",
+      "epubdate": "2026 Oct 24",
+      "source": "Eur Heart J Digit Health",
+      "authors": [
+        {
+          "name": "Zakynthinos GE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Oikonomou E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zakynthinos ID",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dimeas G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pantelidis P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Papaioannou TG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Siasos G",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Siasos G",
+      "title": "Artificial intelligence versus physician decision-making in acute heart failure: a comparative evaluation of four contemporary AI systems.",
+      "sorttitle": "artificial intelligence versus physician decision making in acute heart failure a comparative evaluation of four contemporary ai systems",
+      "volume": "7",
+      "issue": "9",
+      "pages": "ztag169",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101778323",
+      "issn": "",
+      "essn": "2634-3916",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "258",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42985448"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13732570"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13732570;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1093/ehjdh/ztag169"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "ztag169"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2026/07/27 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/08/29 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/09/28 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/11/05 11:47"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/11/05 11:46"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/11/05 05:50"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/10/24 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 22,
+      "fulljournalname": "European heart journal. Digital health",
+      "elocationid": "doi: 10.1093/ehjdh/ztag169",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/10/24 00:00",
+      "sortfirstauthor": "Zakynthinos GE",
+      "vernaculartitle": ""
+    },
+    "42978596": {
+      "uid": "42978596",
+      "pubdate": "2026",
+      "epubdate": "2026 Oct 20",
+      "source": "Front Endocrinol (Lausanne)",
+      "authors": [
+        {
+          "name": "Wu G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ai C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wu W",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Wu W",
+      "title": "HalluciGuard-eye: knowledge graph-enhanced retrieval-augmented generation for hallucination detection and mitigation in ophthalmic multimodal large language models.",
+      "sorttitle": "halluciguard eye knowledge graph enhanced retrieval augmented generation for hallucination detection and mitigation in ophthalmic multimodal large language models",
+      "volume": "17",
+      "issue": "",
+      "pages": "1976190",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101555782",
+      "issn": "1664-2392",
+      "essn": "1664-2392",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "258",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42978596"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13727480"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13727480;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3389/fendo.2026.1976190"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2026/08/23 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/09/06 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/09/24 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/11/04 05:32"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/11/04 05:31"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/11/04 04:33"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/10/20 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 40,
+      "fulljournalname": "Frontiers in endocrinology",
+      "elocationid": "doi: 10.3389/fendo.2026.1976190",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/10/20 00:00",
+      "sortfirstauthor": "Wu G",
+      "vernaculartitle": ""
+    },
+    "42978152": {
+      "uid": "42978152",
+      "pubdate": "2026 Nov 3",
+      "epubdate": "2026 Nov 3",
+      "source": "J Am Med Inform Assoc",
+      "authors": [
+        {
+          "name": "Alexiou VG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Vassiliou A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sumpio BE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Geroulakos G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kakkos SK",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Kakkos SK",
+      "title": "A multi-guideline clinical agent for vascular surgery: architecture, implementation, and benchmark evaluation.",
+      "sorttitle": "multi guideline clinical agent for vascular surgery architecture implementation and benchmark evaluation",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9430800",
+      "issn": "1067-5027",
+      "essn": "1527-974X",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - as supplied by publisher",
+      "pubstatus": "10",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42978152"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1093/jamia/ocag178"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "9011462"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2026/06/22 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/09/07 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/10/04 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/11/04 05:31"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/11/04 05:31"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/11/04 00:53"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of the American Medical Informatics Association : JAMIA",
+      "elocationid": "pii: ocag178. doi: 10.1093/jamia/ocag178",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/11/03 00:00",
+      "sortfirstauthor": "Alexiou VG",
+      "vernaculartitle": ""
+    },
+    "42976380": {
+      "uid": "42976380",
+      "pubdate": "2026 Nov 3",
+      "epubdate": "2026 Nov 3",
+      "source": "Biomed Phys Eng Express",
+      "authors": [
+        {
+          "name": "Singh AK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Raghuvanshi AS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mehta R",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Mehta R",
+      "title": "MaskRet-Oto: Region-Conditioned Evidence Retrieval and Calibration for Otoscopic Image Classification and Selective Referral.",
+      "sorttitle": "maskret oto region conditioned evidence retrieval and calibration for otoscopic image classification and selective referral",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101675002",
+      "issn": "",
+      "essn": "2057-1976",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - as supplied by publisher",
+      "pubstatus": "10",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42976380"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1088/2057-1976/aebcf4"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2026/11/03 23:27"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/11/03 23:27"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/11/03 17:52"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Biomedical physics & engineering express",
+      "elocationid": "doi: 10.1088/2057-1976/aebcf4",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/11/03 00:00",
+      "sortfirstauthor": "Singh AK",
+      "vernaculartitle": ""
+    },
+    "42973777": {
+      "uid": "42973777",
+      "pubdate": "2026",
+      "epubdate": "2026 Oct 19",
+      "source": "Front Digit Health",
+      "authors": [
+        {
+          "name": "Saji A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shamsudeen FM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jacob C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Popirlan C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Popirlan CI",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hemanth DJ",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Hemanth DJ",
+      "title": "Enhanced vision language framework for medical report generation using agent-based retrieval.",
+      "sorttitle": "enhanced vision language framework for medical report generation using agent based retrieval",
+      "volume": "8",
+      "issue": "",
+      "pages": "1989756",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101771889",
+      "issn": "",
+      "essn": "2673-253X",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "258",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42973777"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13724489"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13724489;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3389/fdgth.2026.1989756"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2026/09/05 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/10/05 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/10/06 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/11/03 12:06"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/11/03 12:05"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/11/03 05:17"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/10/19 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 34,
+      "fulljournalname": "Frontiers in digital health",
+      "elocationid": "doi: 10.3389/fdgth.2026.1989756",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/10/19 00:00",
+      "sortfirstauthor": "Saji A",
+      "vernaculartitle": ""
+    },
+    "42964527": {
+      "uid": "42964527",
+      "pubdate": "2026 Dec",
+      "epubdate": "2026 Sep 14",
+      "source": "J Healthc Inform Res",
+      "authors": [
+        {
+          "name": "Vithanage D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Duong QV",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Deng C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Acharya R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gu Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Song T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yu P",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Yu P",
+      "title": "Evaluating RAG Configurations for Clinical Information Extraction from EHR Notes: Aged Care Case Study.",
+      "sorttitle": "evaluating rag configurations for clinical information extraction from ehr notes aged care case study",
+      "volume": "10",
+      "issue": "4",
+      "pages": "952-972",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101707451",
+      "issn": "2509-4971",
+      "essn": "2509-498X",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "258",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42964527"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13719912"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13719912;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s41666-026-00254-8"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "254"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2026/03/23 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/08/30 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/09/02 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/10/31 23:25"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/10/31 23:24"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/10/31 05:12"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/09/14 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 36,
+      "fulljournalname": "Journal of healthcare informatics research",
+      "elocationid": "doi: 10.1007/s41666-026-00254-8",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/09/14 00:00",
+      "sortfirstauthor": "Vithanage D",
+      "vernaculartitle": ""
+    },
+    "42963884": {
+      "uid": "42963884",
+      "pubdate": "2026 Nov",
+      "epubdate": "",
+      "source": "Ann N Y Acad Sci",
+      "authors": [
+        {
+          "name": "Xiao Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yao Q",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhou F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sun H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ji Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jiang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wu Q",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Wu Q",
+      "title": "A Large Language Model Framework for Seed Implant Brachytherapy: Adaptive Weight Optimization via Retrieval-Augmented Generation.",
+      "sorttitle": "large language model framework for seed implant brachytherapy adaptive weight optimization via retrieval augmented generation",
+      "volume": "1565",
+      "issue": "1",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7506858",
+      "issn": "0077-8923",
+      "essn": "1749-6632",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42963884"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/nyas.70448"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "e70448"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "revised",
+          "date": "2026/10/07 00:00"
+        },
+        {
+          "pubstatus": "received",
+          "date": "2026/04/23 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/10/11 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/10/31 05:33"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/10/31 05:32"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/10/31 02:02"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Annals of the New York Academy of Sciences",
+      "elocationid": "pii: e70448. doi: 10.1111/nyas.70448",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/11/01 00:00",
+      "sortfirstauthor": "Xiao Z",
+      "vernaculartitle": ""
+    },
+    "42962066": {
+      "uid": "42962066",
+      "pubdate": "2026 Oct 30",
+      "epubdate": "2026 Oct 30",
+      "source": "JMIR Form Res",
+      "authors": [
+        {
+          "name": "Athavale R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cresswell A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Huffman A",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Huffman A",
+      "title": "Medical Students' Perceptions of Retrieval-Augmented Generation and Large Language Models: Dyadic Interview and Exploratory Survey Study.",
+      "sorttitle": "medical students perceptions of retrieval augmented generation and large language models dyadic interview and exploratory survey study",
+      "volume": "10",
+      "issue": "",
+      "pages": "e106157",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101726394",
+      "issn": "",
+      "essn": "2561-326X",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42962066"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13722098"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13722098;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.2196/106157"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "v10i1e106157"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2026/07/03 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/10/01 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/10/08 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/10/30 17:44"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/10/30 17:43"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/10/30 14:13"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/10/30 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 29,
+      "fulljournalname": "JMIR formative research",
+      "elocationid": "doi: 10.2196/106157",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/10/30 00:00",
+      "sortfirstauthor": "Athavale R",
+      "vernaculartitle": ""
+    },
+    "42959185": {
+      "uid": "42959185",
+      "pubdate": "2026",
+      "epubdate": "2026 Oct 15",
+      "source": "Front Artif Intell",
+      "authors": [
+        {
+          "name": "Anantharajan S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Loganathan S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Soundarraj R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Emerson Nithiyaraj E",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Emerson Nithiyaraj E",
+      "title": "PharmAI: domain-specific QA generation by adaptive learning and fine-tuning of small language models.",
+      "sorttitle": "pharmai domain specific qa generation by adaptive learning and fine tuning of small language models",
+      "volume": "9",
+      "issue": "",
+      "pages": "1944175",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101770551",
+      "issn": "",
+      "essn": "2624-8212",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "258",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42959185"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13716864"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13716864;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3389/frai.2026.1944175"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2026/07/21 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/08/21 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/08/24 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/10/30 11:42"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/10/30 11:41"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/10/30 05:11"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/10/15 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 19,
+      "fulljournalname": "Frontiers in artificial intelligence",
+      "elocationid": "doi: 10.3389/frai.2026.1944175",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/10/15 00:00",
+      "sortfirstauthor": "Anantharajan S",
+      "vernaculartitle": ""
+    },
+    "42953604": {
+      "uid": "42953604",
+      "pubdate": "2026",
+      "epubdate": "2026 Oct 14",
+      "source": "Front Digit Health",
+      "authors": [
+        {
+          "name": "Mahmud JS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ratri KA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hosen MH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Morol MK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hui LT",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nandi D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jubair AA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rahman M",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Rahman M",
+      "title": "A mini-review of medical question answering for Bangla: the methodological landscape and cross-lingual perspectives.",
+      "sorttitle": "mini review of medical question answering for bangla the methodological landscape and cross lingual perspectives",
+      "volume": "8",
+      "issue": "",
+      "pages": "1856734",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101771889",
+      "issn": "",
+      "essn": "2673-253X",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "258",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42953604"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13714819"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13714819;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3389/fdgth.2026.1856734"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2026/04/15 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/09/16 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/09/27 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/10/29 15:21"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/10/29 15:20"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/10/29 06:06"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/10/14 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 41,
+      "fulljournalname": "Frontiers in digital health",
+      "elocationid": "doi: 10.3389/fdgth.2026.1856734",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/10/14 00:00",
+      "sortfirstauthor": "Mahmud JS",
+      "vernaculartitle": ""
+    },
+    "42952607": {
+      "uid": "42952607",
+      "pubdate": "2026",
+      "epubdate": "2026 Oct 14",
+      "source": "Front Digit Health",
+      "authors": [
+        {
+          "name": "Zheng X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rui X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Long T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lv Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jin Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Huang W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dong X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang Q",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dai Y",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Dai Y",
+      "title": "IPF-RAG: temporal-aware retrieval-augmented generation for idiopathic pulmonary fibrosis care.",
+      "sorttitle": "ipf rag temporal aware retrieval augmented generation for idiopathic pulmonary fibrosis care",
+      "volume": "8",
+      "issue": "",
+      "pages": "1883739",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101771889",
+      "issn": "",
+      "essn": "2673-253X",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "258",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42952607"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13713474"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13713474;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3389/fdgth.2026.1883739"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2026/05/17 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/09/05 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/09/28 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/10/29 15:21"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/10/29 15:20"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/10/29 05:02"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/10/14 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 48,
+      "fulljournalname": "Frontiers in digital health",
+      "elocationid": "doi: 10.3389/fdgth.2026.1883739",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/10/14 00:00",
+      "sortfirstauthor": "Zheng X",
+      "vernaculartitle": ""
+    },
+    "42952574": {
+      "uid": "42952574",
+      "pubdate": "2026",
+      "epubdate": "2026 Oct 14",
+      "source": "Front Pharmacol",
+      "authors": [
+        {
+          "name": "Waikar S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ramanathan M",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Ramanathan M",
+      "title": "Integrating knowledge graphs and retrieval-augmented generation to identify clinical pharmacology gaps in infectious disease trial protocols.",
+      "sorttitle": "integrating knowledge graphs and retrieval augmented generation to identify clinical pharmacology gaps in infectious disease trial protocols",
+      "volume": "17",
+      "issue": "",
+      "pages": "1955011",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101548923",
+      "issn": "1663-9812",
+      "essn": "1663-9812",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "258",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42952574"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13713297"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13713297;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3389/fphar.2026.1955011"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "1955011"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2026/07/31 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/09/25 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/09/27 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/10/29 05:31"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/10/29 05:30"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/10/29 05:01"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/10/14 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 36,
+      "fulljournalname": "Frontiers in pharmacology",
+      "elocationid": "doi: 10.3389/fphar.2026.1955011",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/10/14 00:00",
+      "sortfirstauthor": "Waikar S",
+      "vernaculartitle": ""
+    },
+    "42948771": {
+      "uid": "42948771",
+      "pubdate": "2026 Oct",
+      "epubdate": "2026 Feb 10",
+      "source": "Chin Herb Med",
+      "authors": [
+        {
+          "name": "Xiao W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cheng Q",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mao Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Song C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li Q",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen W",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Chen W",
+      "title": "HerbWise: A domain-specific large language model for traditional herbal medicine.",
+      "sorttitle": "herbwise a domain specific large language model for traditional herbal medicine",
+      "volume": "18",
+      "issue": "4",
+      "pages": "820-834",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101556727",
+      "issn": "1674-6384",
+      "essn": "2589-3610",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "258",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42948771"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13712368"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13712368;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.chmed.2026.02.010"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1674-6384(26)00012-2"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/06/26 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/10/08 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/02/10 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/10/28 11:37"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/10/28 11:36"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/10/28 05:50"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/02/10 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 52,
+      "fulljournalname": "Chinese herbal medicines",
+      "elocationid": "doi: 10.1016/j.chmed.2026.02.010",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/02/10 00:00",
+      "sortfirstauthor": "Xiao W",
+      "vernaculartitle": ""
+    },
+    "42940443": {
+      "uid": "42940443",
+      "pubdate": "2026 Oct 12",
+      "epubdate": "2026 Oct 12",
+      "source": "Healthcare (Basel)",
+      "authors": [
+        {
+          "name": "Tokatlı N",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Tokatlı N",
+      "title": "HepDecide: A Standards-Oriented, Explainable Clinical Decision Support Prototype for the Chronic Liver-Disease Spectrum-Design, Guideline-Grounded Reporting, and a Leakage-Controlled Retrospective Evaluation.",
+      "sorttitle": "hepdecide a standards oriented explainable clinical decision support prototype for the chronic liver disease spectrum design guideline grounded reporting and a leakage controlled retrospective evaluation",
+      "volume": "14",
+      "issue": "20",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101666525",
+      "issn": "2227-9032",
+      "essn": "2227-9032",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42940443"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13704185"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13704185;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/healthcare14203397"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "healthcare14203397"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2026/08/14 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/09/27 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/10/06 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/10/27 11:33"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/10/27 11:32"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/10/27 10:36"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/10/12 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 79,
+      "fulljournalname": "Healthcare (Basel, Switzerland)",
+      "elocationid": "doi: 10.3390/healthcare14203397",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/10/12 00:00",
+      "sortfirstauthor": "Tokatlı N",
+      "vernaculartitle": ""
+    },
+    "42938952": {
+      "uid": "42938952",
+      "pubdate": "2026 Sep 22",
+      "epubdate": "2026 Sep 22",
+      "source": "Bioengineering (Basel)",
+      "authors": [
+        {
+          "name": "Prabha S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Collaco BG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rosa Malena C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Haider SA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wood N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Forte AJ",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Forte AJ",
+      "title": "Graph-Enhanced Retrieval-Augmented Generation for Postoperative Patient Question Answering: A Comparative Evaluation of Knowledge Graph, Retrieval-Augmented Generation, and Hybrid GraphRAG Approaches.",
+      "sorttitle": "graph enhanced retrieval augmented generation for postoperative patient question answering a comparative evaluation of knowledge graph retrieval augmented generation and hybrid graphrag approaches",
+      "volume": "13",
+      "issue": "10",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101676056",
+      "issn": "2306-5354",
+      "essn": "2306-5354",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42938952"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13701952"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13701952;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/bioengineering13101097"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "bioengineering13101097"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2026/08/30 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/09/15 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/09/18 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/10/27 11:32"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/10/27 11:31"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/10/27 10:32"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/09/22 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 53,
+      "fulljournalname": "Bioengineering (Basel, Switzerland)",
+      "elocationid": "doi: 10.3390/bioengineering13101097",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/09/22 00:00",
+      "sortfirstauthor": "Prabha S",
+      "vernaculartitle": ""
+    },
+    "42932700": {
+      "uid": "42932700",
+      "pubdate": "2026 Oct",
+      "epubdate": "2026 Aug 17",
+      "source": "NEJM AI",
+      "authors": [
+        {
+          "name": "Madrid-García A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Merino-Barbancho B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rujas M",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Rujas M",
+      "title": "When the Chatbot Leaks: Securing Patient-Facing Medical AI in the Age of Dual-Use Large Language Models.",
+      "sorttitle": "when the chatbot leaks securing patient facing medical ai in the age of dual use large language models",
+      "volume": "3",
+      "issue": "10",
+      "pages": "AIp2600583",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9918752186406676",
+      "issn": "",
+      "essn": "2836-9386",
+      "pubtype": [
+        "Editorial"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42932700"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1056/AIp2600583"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2026/10/26 17:32"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/10/26 17:31"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/10/26 15:14"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "NEJM AI",
+      "elocationid": "doi: 10.1056/AIp2600583",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/10/01 00:00",
+      "sortfirstauthor": "Madrid-García A",
+      "vernaculartitle": ""
+    }
+  }
+}

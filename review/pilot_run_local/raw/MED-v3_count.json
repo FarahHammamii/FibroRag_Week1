@@ -1,0 +1,14 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "17",
+    "retmax": "0",
+    "retstart": "0",
+    "idlist": [],
+    "translationset": [],
+    "querytranslation": "((\"Leiomyoma\"[MeSH Terms] AND \"Uterine Neoplasms\"[MeSH Terms]) OR \"uterine fibroid*\"[Title/Abstract] OR \"uterine leiomyoma*\"[Title/Abstract] OR \"uterine myoma*\"[Title/Abstract] OR \"fibrome* uterin*\"[Title/Abstract] OR \"uterine fibromyoma*\"[Title/Abstract]) AND (\"Tunisia\"[Title/Abstract] OR \"Tunisia\"[Affiliation] OR \"Tunisia\"[MeSH Terms]) AND 2016/01/01:2026/11/12[Date - Publication]"
+  }
+}

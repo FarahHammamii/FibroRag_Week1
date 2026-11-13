@@ -1,0 +1,14 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "751",
+    "retmax": "0",
+    "retstart": "0",
+    "idlist": [],
+    "translationset": [],
+    "querytranslation": "\"retrieval-augmented generation\"[Title/Abstract] AND (\"medical\"[Title/Abstract] OR \"clinical\"[Title/Abstract])"
+  }
+}

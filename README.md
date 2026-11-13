@@ -1,46 +1,52 @@
-# FIBRO-RAG — Week 1
+# FIBRO-RAG
 
-**An evidence-aware, selective question-answering assistant on uterine fibroids.**
-Individual 8-week project · Farah Hammami · Research Master in Computer Science.
+Farah Hammami Research Master in Computer Science  
+Week 1 Project scoping and literature review protocol 
+## Project
 
-**Status (13/11/2026):** protocol v1.0 written after a real pilot search. No formal review and no AI experiment yet. Research prototype — not a medical device, no clinical advice.
+I want to build an academic RAG assistant for uterine fibroids and test whether evidence-aware retrieval and claim verification improve the reliability of its answers. The assistant will use public medical evidence, cite its sources, and qualify or refuse answers when the evidence is insufficient. It is not a clinical tool.
 
-**Research question:** with the same model, corpus and budget, does re-ranking sources by quality/applicability, and checking each claim with the option to refuse, make answers more faithful to the sources at comparable coverage? The contribution is a reproducible adaptation, a small benchmark (FibroidQA) and ablations — not a new algorithm.
+The research idea is to compare four systems: M0 (LLM only), M1 (standard hybrid RAG), M2 (M1 plus evidence-aware re-ranking), and M3 (M2 plus claim verification and a selective answer decision). I will use ablations to isolate the effects of each component, and compare reliability at similar coverage. The corpus and evaluation are planned, not implemented yet.
 
 ## Week 1 deliverables
 
+| File | Purpose |
+| --- | --- |
+| [Project scope](scoping/scoping_sheet.pdf) | Scope, users, three use cases, three design options and exclusions |
+| [Review protocol](review/review_protocol.pdf) | Annex C, PCC question, criteria and methodology |
+| [PRISMA in my own words](review/prisma_in_my_words.pdf) | One-page explanation |
+| [Pilot search analysis](review/pilot_search_analysis.pdf) | Actual search results and query decisions |
+| [Weekly report](weekly_reports/week_01.pdf) | Annex A, one page |
+| [AI-use journal](ai_journal/ai_journal.pdf) | Annex B, significant uses, corrections and reflection |
 
+## Pilot results
 
-## Folders
+On 12 November 2026, I ran 12 queries locally on PubMed, Europe PMC and OpenAlex. All succeeded: 347 exported records, 296 unique and 51 duplicates removed. The original API files and hashes are saved in `review/pilot_run_local/`. Title labels are AI-assisted and exploratory; no formal screening or model evaluation has been performed.
 
-- `scoping/` — scope, use cases, the three options, decisions log.
-- `review/` — protocol, pilot search data and analysis, references (see `review/README.md`).
-- `code/bibliographic_search/` — search script, check script, tests.
-- `knowledge_base/` — rules for the future corpus (nothing ingested yet).
-- `assistant/` — planned architecture.
-- `evaluation/` — experimental plan and 8 draft test scenarios.
-- `figures/` — pilot flow, title sorting chart, architecture.
-- `weekly_reports/`, `ai_journal/`.
+![Pilot search workflow](figures/pilot_flow.png)
 
-## Reproduce
+![Title-level exploration](figures/title_coding.png)
 
-Python 3.10+, standard library only.
+## Repository structure
+
+- `scoping/`, `review/`, `weekly_reports/`, `ai_journal/`: Week 1 reports and literature review evidence.
+- `code/`: search, verification, unit tests and figure script.
+- `knowledge_base/`: plan for the source corpus.
+- `assistant/`: architecture for the planned assistant.
+- `evaluation/`: experimental plan and eight draft FibroidQA scenarios.
+- `figures/`: architecture and pilot figures.
+
+## Reproduce the pilot
+
+Use Python 3.10 or later. From the repository root:
 
 ```bash
-# check the saved run (no Internet needed)
-python code/bibliographic_search/verify_pilot.py
 python -m unittest discover -s code/bibliographic_search -p "test_*.py"
-
-# run the searches again (Internet needed; results will change as databases are updated)
-export CONTACT_EMAIL="your@email"        # optional: NCBI_API_KEY, OPENALEX_API_KEY
-python code/bibliographic_search/pilot.py --ids MED-v1 MED-v2 MED-v3 MED-v4 MED-v5 \
-  TECH-v1 TECH-v2 TECH-v3 TECH-v4 TECH-v5 TECH-v6 TECH-v7 --limit 30 --out review/pilot_run_reproduction
+python code/bibliographic_search/verify_pilot.py
 ```
 
-Never commit API keys (`.env` is git-ignored).
+The offline verification checks the 28 original file hashes, exact query strings, counts, deduplication and title-label alignment. To run a new search (internet and possibly API credentials required), see [search instructions](code/bibliographic_search/README.md). New results may differ as databases update. Do not overwrite the archived run.
 
-## Ethics and rights
+## Next steps
 
-Public sources and synthetic questions only. No patient data, no diagnosis, no prescription. Licences are respected; texts that cannot be redistributed are not copied. No expert validation at this stage.
-
-Figures can be redrawn with `python code/figures/title_coding_chart.py review/query_analysis.csv figures/title_coding.png` and `dot -Tpng figures/pilot_flow.dot -o figures/pilot_flow.png` (Graphviz).
+Screen titles and abstracts, check full texts and quality, and start a versioned corpus and gold benchmark. Use only public or authorized documents and synthetic questions. Without medical expert validation, the evaluation will measure faithfulness to the sources, not clinical accuracy.

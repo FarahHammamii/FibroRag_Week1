@@ -1,0 +1,45 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "317",
+    "retmax": "30",
+    "retstart": "0",
+    "idlist": [
+      "42847729",
+      "42836805",
+      "42549602",
+      "42524917",
+      "42498219",
+      "42404302",
+      "42380851",
+      "42294527",
+      "42260709",
+      "42172954",
+      "42145021",
+      "42086971",
+      "41999860",
+      "41954864",
+      "41914717",
+      "41868231",
+      "41849970",
+      "41846572",
+      "41813372",
+      "41805970",
+      "41786087",
+      "41733011",
+      "41691731",
+      "41678008",
+      "41671103",
+      "41642287",
+      "41639854",
+      "41606742",
+      "41496343",
+      "41457683"
+    ],
+    "translationset": [],
+    "querytranslation": "((\"Leiomyoma\"[MeSH Terms] AND \"Uterine Neoplasms\"[MeSH Terms]) OR \"uterine fibroid*\"[Title/Abstract] OR \"uterine leiomyoma*\"[Title/Abstract] OR \"uterine myoma*\"[Title/Abstract] OR \"fibrome* uterin*\"[Title/Abstract] OR \"uterine fibromyoma*\"[Title/Abstract]) AND (\"guideline\"[Publication Type] OR \"practice guideline\"[Publication Type] OR \"systematic review\"[Publication Type] OR \"meta-analysis\"[Publication Type]) AND 2016/01/01:2026/11/12[Date - Publication]"
+  }
+}

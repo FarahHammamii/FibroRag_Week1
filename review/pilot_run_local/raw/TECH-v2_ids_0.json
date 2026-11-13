@@ -1,0 +1,45 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "803",
+    "retmax": "30",
+    "retstart": "0",
+    "idlist": [
+      "43013841",
+      "43011704",
+      "43011168",
+      "43010075",
+      "43003299",
+      "43002664",
+      "42994600",
+      "42993957",
+      "42993682",
+      "42992190",
+      "42990834",
+      "42990457",
+      "42986508",
+      "42986217",
+      "42985448",
+      "42978596",
+      "42978152",
+      "42976380",
+      "42973777",
+      "42964527",
+      "42963884",
+      "42962066",
+      "42959185",
+      "42953604",
+      "42952607",
+      "42952574",
+      "42948771",
+      "42940443",
+      "42938952",
+      "42932700"
+    ],
+    "translationset": [],
+    "querytranslation": "(\"retrieval-augmented generation\"[Title/Abstract] OR \"retrieval-augmented generation\"[Title/Abstract]) AND (\"medical\"[Title/Abstract] OR \"biomedical\"[Title/Abstract] OR \"clinical\"[Title/Abstract]) AND 2023/01/01:2026/11/12[Date - Publication]"
+  }
+}

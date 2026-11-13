@@ -2,7 +2,7 @@
 
 ## Questions and hypotheses
 
-**Review question (PCC):** see `review/review_protocol.pdf`.
+**Review question (PCC):** What evidence and conditions of applicability are reported for uterine fibroids in guidelines and research syntheses, including the Tunisian context, that can support an auditable academic question-answering corpus? The RAG methods are investigated in a separate targeted technical search. See [review protocol](../review/review_protocol.pdf).
 
 **Experimental question:** with the same model, corpus and context budget, what is the added effect of (a) re-ranking by quality/applicability and (b) claim checking with abstention on the reliability of answers to FibroidQA questions, at comparable coverage?
 
@@ -51,7 +51,7 @@
 - **Gate score:** share of essential claims verified, plus blocking rules (a major claim unsupported, missing context, out-of-scope question).
 - **Threshold τ** chosen on dev among {0.5, 0.7, 0.9, 1.0}: highest coverage with risk ≤ 10% if reachable; otherwise I report the frontier. Frozen before the test set.
 - **QUALIFY** when some parts are verified and limits can be stated; else **ABSTAIN**. Real conflicts are reported with both sources, not hidden.
-- **Error types to log:** false support, retrieval miss, outdated source, wrong population, wrong outcome, false refusal, translation error, prompt injection from a document, invented reference. Evidence-order test inspired by T15.
+- **Error types to log:** false support, retrieval miss, outdated source, wrong population, wrong outcome, false refusal, translation error, prompt injection from a document, invented reference. Evidence-order test (candidate technical reference T15; see review/candidate_references.csv).
 
 ## Rough schedule (my own plan, not the official briefs)
 

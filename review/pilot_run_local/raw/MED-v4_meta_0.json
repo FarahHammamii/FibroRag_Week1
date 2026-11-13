@@ -1,0 +1,4173 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "42649498",
+      "42507444",
+      "42294769",
+      "41932577",
+      "41773973",
+      "41628502",
+      "41581744",
+      "41444772",
+      "41208417",
+      "41186511",
+      "41109208",
+      "40580658",
+      "40420404",
+      "40261880",
+      "40164039",
+      "40077973",
+      "39962887",
+      "39907748",
+      "39902991",
+      "39818313",
+      "39254451",
+      "38528094",
+      "38153958",
+      "38148064",
+      "38004028",
+      "37848865",
+      "37672088",
+      "37516864",
+      "36678191",
+      "36594317"
+    ],
+    "42649498": {
+      "uid": "42649498",
+      "pubdate": "2026 Aug 25",
+      "epubdate": "2026 Aug 25",
+      "source": "BMC Womens Health",
+      "authors": [
+        {
+          "name": "Shoukry A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Aboali OA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Abdelquader MF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gouda AMH",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Gouda AMH",
+      "title": "Comparing different techniques of uterine artery occlusion during laparoscopic myomectomy: a randomized controlled trial.",
+      "sorttitle": "comparing different techniques of uterine artery occlusion during laparoscopic myomectomy a randomized controlled trial",
+      "volume": "26",
+      "issue": "1",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101088690",
+      "issn": "",
+      "essn": "1472-6874",
+      "pubtype": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Comparative Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42649498"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13508237"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13508237;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1186/s12905-026-04799-z"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1186/s12905-026-04799-z"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2026/05/11 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/08/12 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/08/27 05:36"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/08/27 05:35"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/08/26 23:59"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/08/25 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 26,
+      "fulljournalname": "BMC women's health",
+      "elocationid": "doi: 10.1186/s12905-026-04799-z",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/08/25 00:00",
+      "sortfirstauthor": "Shoukry A",
+      "vernaculartitle": ""
+    },
+    "42507444": {
+      "uid": "42507444",
+      "pubdate": "2026 Jul 1",
+      "epubdate": "2026 Jul 1",
+      "source": "JAMA Netw Open",
+      "authors": [
+        {
+          "name": "Briley K Jr",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Reddy R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cavada A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Alessandrino F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zarnegarnia Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Carugno J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Miller Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Venkat S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Allakhverdieva EA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mohan P",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Mohan P",
+      "title": "Intraarterial Dexamethasone for Pain Relief After Uterine Fibroid Embolization: A Randomized Clinical Trial.",
+      "sorttitle": "intraarterial dexamethasone for pain relief after uterine fibroid embolization a randomized clinical trial",
+      "volume": "9",
+      "issue": "7",
+      "pages": "e2625004",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101729235",
+      "issn": "",
+      "essn": "2574-3805",
+      "pubtype": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42507444"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13409007"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13409007;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1001/jamanetworkopen.2026.25004"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "2852119"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2026/07/27 12:37"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/07/27 12:36"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/07/27 11:35"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/07/27 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 22,
+      "fulljournalname": "JAMA network open",
+      "elocationid": "doi: 10.1001/jamanetworkopen.2026.25004",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/07/01 00:00",
+      "sortfirstauthor": "Briley K Jr",
+      "vernaculartitle": ""
+    },
+    "42294769": {
+      "uid": "42294769",
+      "pubdate": "2026 Dec",
+      "epubdate": "2026 Jun 15",
+      "source": "J Invest Surg",
+      "authors": [
+        {
+          "name": "Wang X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ye C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zou Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tong X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Feng L",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Feng L",
+      "title": "Comparison of Transumbilical Single‑Port and Multi‑Port Laparoscopic Myomectomy in Patients with Uterine Fibroids: Effects on Stress Response, Immune Function, and Incision Cosmetic Outcomes.",
+      "sorttitle": "comparison of transumbilical single port and multi port laparoscopic myomectomy in patients with uterine fibroids effects on stress response immune function and incision cosmetic outcomes",
+      "volume": "39",
+      "issue": "1",
+      "pages": "2658323",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8809255",
+      "issn": "0894-1939",
+      "essn": "1521-0553",
+      "pubtype": [
+        "Journal Article",
+        "Comparative Study",
+        "Randomized Controlled Trial"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42294769"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/08941939.2026.2658323"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2026/06/15 12:53"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/06/15 12:52"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/06/15 08:23"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of investigative surgery : the official journal of the Academy of Surgical Research",
+      "elocationid": "doi: 10.1080/08941939.2026.2658323",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/12/01 00:00",
+      "sortfirstauthor": "Wang X",
+      "vernaculartitle": ""
+    },
+    "41932577": {
+      "uid": "41932577",
+      "pubdate": "2026 Oct",
+      "epubdate": "2026 Apr 1",
+      "source": "J Minim Invasive Gynecol",
+      "authors": [
+        {
+          "name": "Ozbasli E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Unsal G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dede FS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gungor M",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Gungor M",
+      "title": "Intravenous Tranexamic Acid Combined With Intramyometrial Desmopressin During Laparoscopic Myomectomy: A Randomized Double-Blind Placebo-Controlled Trial.",
+      "sorttitle": "intravenous tranexamic acid combined with intramyometrial desmopressin during laparoscopic myomectomy a randomized double blind placebo controlled trial",
+      "volume": "33",
+      "issue": "10",
+      "pages": "1473-1480",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101235322",
+      "issn": "1553-4650",
+      "essn": "1553-4669",
+      "pubtype": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41932577"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jmig.2026.03.032"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1553-4650(26)00205-0"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2026/02/26 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/03/24 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/03/25 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/10/08 23:31"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/04/04 00:36"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/04/03 19:14"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of minimally invasive gynecology",
+      "elocationid": "doi: 10.1016/j.jmig.2026.03.032",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/10/01 00:00",
+      "sortfirstauthor": "Ozbasli E",
+      "vernaculartitle": ""
+    },
+    "41773973": {
+      "uid": "41773973",
+      "pubdate": "2026 Aug",
+      "epubdate": "",
+      "source": "Health Technol Assess",
+      "authors": [
+        {
+          "name": "Metwally M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "McKendrick K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ridsdale K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pye C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Walters S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Amer S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Barr A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chatters R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cheong Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Choudhary M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Connor M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Desoysa L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "El-Toukhy T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Keetharuth A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Latimer N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Loban A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mohiyiddeen L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mostafa M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Scaife C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Stone T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Taylor L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Turtle C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "White D",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "White D",
+      "title": "Removal of small fibroids and polyps in patients with infertility and recurrent miscarriage: The HELP Fertility? RCT.",
+      "sorttitle": "removal of small fibroids and polyps in patients with infertility and recurrent miscarriage the help fertility rct",
+      "volume": "30",
+      "issue": "62",
+      "pages": "85-120",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9706284",
+      "issn": "1366-5278",
+      "essn": "2046-4924",
+      "pubtype": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study",
+        "Pragmatic Clinical Trial",
+        "Equivalence Trial"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41773973"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12968972"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12968972;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3310/GJMM1915"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2026/09/08 10:55"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/03/03 12:32"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/03/03 10:03"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/03/09 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 40,
+      "fulljournalname": "Health technology assessment (Winchester, England)",
+      "elocationid": "doi: 10.3310/GJMM1915",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/08/01 00:00",
+      "sortfirstauthor": "Metwally M",
+      "vernaculartitle": ""
+    },
+    "41628502": {
+      "uid": "41628502",
+      "pubdate": "2026 Mar",
+      "epubdate": "2026 Jan 29",
+      "source": "Eur J Radiol",
+      "authors": [
+        {
+          "name": "Refaat R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ammar EAM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Basha MAA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Abouelhoda AM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Abo-Elhoda PM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fawzi MM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "El-Darwish AEGE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Abdallah KM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ahmed AA",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Ahmed AA",
+      "title": "Uterine artery embolization versus dienogest for symptomatic adenomyosis: A randomized controlled trial of short-term efficacy.",
+      "sorttitle": "uterine artery embolization versus dienogest for symptomatic adenomyosis a randomized controlled trial of short term efficacy",
+      "volume": "196",
+      "issue": "",
+      "pages": "112712",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8106411",
+      "issn": "0720-048X",
+      "essn": "1872-7727",
+      "pubtype": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Comparative Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41628502"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.ejrad.2026.112712"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0720-048X(26)00060-4"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/11/03 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/01/04 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/01/27 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/02/22 05:35"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/02/02 19:41"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/02/02 17:59"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "European journal of radiology",
+      "elocationid": "doi: 10.1016/j.ejrad.2026.112712",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/03/01 00:00",
+      "sortfirstauthor": "Refaat R",
+      "vernaculartitle": ""
+    },
+    "41581744": {
+      "uid": "41581744",
+      "pubdate": "2026 May",
+      "epubdate": "2026 Jan 23",
+      "source": "Fertil Steril",
+      "authors": [
+        {
+          "name": "Kobori H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kumakiri J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Murakami K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kawasaki Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Takeuchi S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fukui M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kitade M",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Kitade M",
+      "title": "The effectiveness of relugolix compared with leuprorelin for preoperative therapy before laparoscopic myomectomy: a randomized controlled noninferiority study (MyLacR study).",
+      "sorttitle": "effectiveness of relugolix compared with leuprorelin for preoperative therapy before laparoscopic myomectomy a randomized controlled noninferiority study mylacr study",
+      "volume": "125",
+      "issue": "5",
+      "pages": "904-913",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0372772",
+      "issn": "0015-0282",
+      "essn": "1556-5653",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Comparative Study",
+        "Equivalence Trial"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41581744"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.fertnstert.2026.01.011"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0015-0282(26)00040-3"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/10/09 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/01/15 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/01/16 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/05/17 06:29"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/01/26 00:33"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/01/25 19:14"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Fertility and sterility",
+      "elocationid": "doi: 10.1016/j.fertnstert.2026.01.011",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/05/01 00:00",
+      "sortfirstauthor": "Kobori H",
+      "vernaculartitle": ""
+    },
+    "41444772": {
+      "uid": "41444772",
+      "pubdate": "2025 Dec 24",
+      "epubdate": "2025 Dec 24",
+      "source": "Sci Rep",
+      "authors": [
+        {
+          "name": "Li YH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xu N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gou YQ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li MX",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li M",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Li M",
+      "title": "Three-dimensional printing model-assisted single-port laparoscopic multiple myomectomy: a randomized controlled trial.",
+      "sorttitle": "three dimensional printing model assisted single port laparoscopic multiple myomectomy a randomized controlled trial",
+      "volume": "16",
+      "issue": "1",
+      "pages": "3667",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101563288",
+      "issn": "",
+      "essn": "2045-2322",
+      "pubtype": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41444772"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12847862"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12847862;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1038/s41598-025-33805-x"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1038/s41598-025-33805-x"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/11/11 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/12/22 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/06/27 00:58"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/25 00:29"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/24 23:49"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2025/12/24 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 28,
+      "fulljournalname": "Scientific reports",
+      "elocationid": "doi: 10.1038/s41598-025-33805-x",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/12/24 00:00",
+      "sortfirstauthor": "Li YH",
+      "vernaculartitle": ""
+    },
+    "41208417": {
+      "uid": "41208417",
+      "pubdate": "2026 Mar",
+      "epubdate": "2025 Nov 10",
+      "source": "BJOG",
+      "authors": [
+        {
+          "name": "Neis F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kraemer B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bauer A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dijkstra T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Matovina S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rohner A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Brucker SY",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Brucker SY",
+      "title": "Recovery After Transcervical Fibroid Ablation Versus Minimally Invasive Myomectomy for Symptomatic Uterine Fibroids: A Randomised Controlled Trial.",
+      "sorttitle": "recovery after transcervical fibroid ablation versus minimally invasive myomectomy for symptomatic uterine fibroids a randomised controlled trial",
+      "volume": "133",
+      "issue": "4",
+      "pages": "618-625",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "100935741",
+      "issn": "1470-0328",
+      "essn": "1471-0528",
+      "pubtype": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Comparative Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41208417"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12884227"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12884227;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/1471-0528.70081"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "revised",
+          "date": "2025/10/23 00:00"
+        },
+        {
+          "pubstatus": "received",
+          "date": "2025/04/05 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/10/28 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/02/09 06:29"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/11/10 06:29"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/11/10 03:23"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/02/09 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 32,
+      "fulljournalname": "BJOG : an international journal of obstetrics and gynaecology",
+      "elocationid": "doi: 10.1111/1471-0528.70081",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/03/01 00:00",
+      "sortfirstauthor": "Neis F",
+      "vernaculartitle": ""
+    },
+    "41186511": {
+      "uid": "41186511",
+      "pubdate": "2026 Jan 1",
+      "epubdate": "2025 Nov 1",
+      "source": "Int J Surg",
+      "authors": [
+        {
+          "name": "Chen J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shi Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Huang S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jiao J",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Jiao J",
+      "title": "Phenylephrine-induced blood pressure elevation reduces pulmonary edema and distention fluid absorption in hysteroscopic myomectomy: a randomized controlled trial.",
+      "sorttitle": "phenylephrine induced blood pressure elevation reduces pulmonary edema and distention fluid absorption in hysteroscopic myomectomy a randomized controlled trial",
+      "volume": "112",
+      "issue": "1",
+      "pages": "1039-1047",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101228232",
+      "issn": "1743-9191",
+      "essn": "1743-9159",
+      "pubtype": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41186511"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12825701"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12825701;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1097/JS9.0000000000003505"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "01279778-990000000-03539"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/05/13 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/08/28 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/01/23 06:30"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/11/04 12:27"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/11/04 10:23"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/01/22 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 21,
+      "fulljournalname": "International journal of surgery (London, England)",
+      "elocationid": "doi: 10.1097/JS9.0000000000003505",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/01 00:00",
+      "sortfirstauthor": "Chen J",
+      "vernaculartitle": ""
+    },
+    "41109208": {
+      "uid": "41109208",
+      "pubdate": "2025 Dec",
+      "epubdate": "2025 Oct 18",
+      "source": "Acta Obstet Gynecol Scand",
+      "authors": [
+        {
+          "name": "van der Meulen JF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "El Alili M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Coppus SFPJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kok HS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Leemans JC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bongers MY",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bosmans JE",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Bosmans JE",
+      "title": "Procedural sedation and analgesia versus general anesthesia for hysteroscopic myomectomy: A cost-effectiveness analysis alongside a randomized controlled trial.",
+      "sorttitle": "procedural sedation and analgesia versus general anesthesia for hysteroscopic myomectomy a cost effectiveness analysis alongside a randomized controlled trial",
+      "volume": "104",
+      "issue": "12",
+      "pages": "2320-2330",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0370343",
+      "issn": "0001-6349",
+      "essn": "1600-0412",
+      "pubtype": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study",
+        "Comparative Study",
+        "Equivalence Trial"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41109208"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12668803"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12668803;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/aogs.70053"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "revised",
+          "date": "2025/08/21 00:00"
+        },
+        {
+          "pubstatus": "received",
+          "date": "2024/10/27 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/08/25 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/02 06:10"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/10/19 00:28"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/10/18 18:22"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2025/10/18 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 38,
+      "fulljournalname": "Acta obstetricia et gynecologica Scandinavica",
+      "elocationid": "doi: 10.1111/aogs.70053",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/12/01 00:00",
+      "sortfirstauthor": "van der Meulen JF",
+      "vernaculartitle": ""
+    },
+    "40580658": {
+      "uid": "40580658",
+      "pubdate": "2025 Aug",
+      "epubdate": "2025 Jun 24",
+      "source": "Eur J Obstet Gynecol Reprod Biol",
+      "authors": [
+        {
+          "name": "Marion A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Vallée CA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shaulov T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dufour MK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kamga-Ngande C",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Kamga-Ngande C",
+      "title": "Pain perceived during hysteroscopic morcellation by vaginoscopy versus standard technique in an outpatient setting: a randomized controlled trial.",
+      "sorttitle": "pain perceived during hysteroscopic morcellation by vaginoscopy versus standard technique in an outpatient setting a randomized controlled trial",
+      "volume": "312",
+      "issue": "",
+      "pages": "114544",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0375672",
+      "issn": "0301-2115",
+      "essn": "1872-7654",
+      "pubtype": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Comparative Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40580658"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.ejogrb.2025.114544"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0301-2115(25)00820-6"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/04/16 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/06/05 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/06/21 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/07/30 00:31"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/07/01 04:52"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/06/28 18:03"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "European journal of obstetrics, gynecology, and reproductive biology",
+      "elocationid": "doi: 10.1016/j.ejogrb.2025.114544",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/08/01 00:00",
+      "sortfirstauthor": "Marion A",
+      "vernaculartitle": ""
+    },
+    "40420404": {
+      "uid": "40420404",
+      "pubdate": "2025 Jul 1",
+      "epubdate": "",
+      "source": "Hum Reprod",
+      "authors": [
+        {
+          "name": "Streuli I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ramyead L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Silvestrini N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Petignat P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dubuisson J",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Dubuisson J",
+      "title": "Impact of definitive uterine artery occlusion on ovarian reserve markers in laparoscopic myomectomy: a randomized controlled trial with 2-year follow-up.",
+      "sorttitle": "impact of definitive uterine artery occlusion on ovarian reserve markers in laparoscopic myomectomy a randomized controlled trial with 2 year follow up",
+      "volume": "40",
+      "issue": "7",
+      "pages": "1305-1314",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8701199",
+      "issn": "0268-1161",
+      "essn": "1460-2350",
+      "pubtype": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40420404"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12222614"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12222614;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1093/humrep/deaf070"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "8150990"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2024/09/06 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/02/07 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/07/03 06:27"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/05/27 06:27"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/05/27 00:53"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2025/05/26 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 29,
+      "fulljournalname": "Human reproduction (Oxford, England)",
+      "elocationid": "doi: 10.1093/humrep/deaf070",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/07/01 00:00",
+      "sortfirstauthor": "Streuli I",
+      "vernaculartitle": ""
+    },
+    "40261880": {
+      "uid": "40261880",
+      "pubdate": "2025",
+      "epubdate": "2025 Apr 22",
+      "source": "PLoS One",
+      "authors": [
+        {
+          "name": "Little C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Naim N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Grogan T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yu S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chia PA",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Chia PA",
+      "title": "Proof of concept study of the posterior quadratus lumborum block for laparoscopic myomectomy: A randomized controlled trial.",
+      "sorttitle": "proof of concept study of the posterior quadratus lumborum block for laparoscopic myomectomy a randomized controlled trial",
+      "volume": "20",
+      "issue": "4",
+      "pages": "e0321890",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101285081",
+      "issn": "",
+      "essn": "1932-6203",
+      "pubtype": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "258",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40261880"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12013877"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12013877;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1371/journal.pone.0321890"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "PONE-D-24-33801"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2024/10/29 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/03/04 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/04/22 16:25"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/04/22 16:24"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/04/22 13:33"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2025/04/22 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 21,
+      "fulljournalname": "PloS one",
+      "elocationid": "doi: 10.1371/journal.pone.0321890",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/04/22 00:00",
+      "sortfirstauthor": "Little C",
+      "vernaculartitle": ""
+    },
+    "40164039": {
+      "uid": "40164039",
+      "pubdate": "2025 May",
+      "epubdate": "2025 Mar 22",
+      "source": "Eur J Obstet Gynecol Reprod Biol",
+      "authors": [
+        {
+          "name": "Elbanna W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Al Sheikh MM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Azmy OM",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Azmy OM",
+      "title": "The effect of intramyometrial injection of terlipressin versus carbetocin on hemoglobin and blood loss during open myomectomy operations without using haemostatic tourniquets: Double blinded randomized placebo-controlled trial.",
+      "sorttitle": "effect of intramyometrial injection of terlipressin versus carbetocin on hemoglobin and blood loss during open myomectomy operations without using haemostatic tourniquets double blinded randomized placebo controlled trial",
+      "volume": "309",
+      "issue": "",
+      "pages": "186-191",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0375672",
+      "issn": "0301-2115",
+      "essn": "1872-7654",
+      "pubtype": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Comparative Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40164039"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.ejogrb.2025.03.041"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0301-2115(25)00179-4"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/01/15 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/03/11 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/03/16 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/04/28 06:26"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/04/01 00:27"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/03/31 18:05"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "European journal of obstetrics, gynecology, and reproductive biology",
+      "elocationid": "doi: 10.1016/j.ejogrb.2025.03.041",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/05/01 00:00",
+      "sortfirstauthor": "Elbanna W",
+      "vernaculartitle": ""
+    },
+    "40077973": {
+      "uid": "40077973",
+      "pubdate": "2025 Mar",
+      "epubdate": "",
+      "source": "Clin Transl Sci",
+      "authors": [
+        {
+          "name": "Johnson JJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Siblini H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Al-Hendy A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Segars JH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "González F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Taylor HS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Singh B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Carson SA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Christman GM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Huang H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dangi B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang H",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Zhang H",
+      "title": "Evaluating the Effect of Epigallocatechin Gallate (EGCG) in Reducing Folate Levels in Reproductive Aged Women by MTHFR and DHFR Genotype in Combination With Letrozole or Clomiphene.",
+      "sorttitle": "evaluating the effect of epigallocatechin gallate egcg in reducing folate levels in reproductive aged women by mthfr and dhfr genotype in combination with letrozole or clomiphene",
+      "volume": "18",
+      "issue": "3",
+      "pages": "e70189",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101474067",
+      "issn": "1752-8054",
+      "essn": "1752-8062",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40077973"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11903501"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11903501;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/cts.70189"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "revised",
+          "date": "2025/02/19 00:00"
+        },
+        {
+          "pubstatus": "received",
+          "date": "2024/04/22 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/02/22 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/03/13 06:29"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/03/13 06:28"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/03/13 02:43"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2025/03/12 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 27,
+      "fulljournalname": "Clinical and translational science",
+      "elocationid": "doi: 10.1111/cts.70189",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/03/01 00:00",
+      "sortfirstauthor": "Johnson JJ",
+      "vernaculartitle": ""
+    },
+    "39962887": {
+      "uid": "39962887",
+      "pubdate": "2025 Feb",
+      "epubdate": "2025 Feb 17",
+      "source": "Acta Radiol",
+      "authors": [
+        {
+          "name": "Bessar AA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Libda YI",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Talaat M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tantawy EF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Heraiz AI",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bessar MA",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Bessar MA",
+      "title": "Comparison of the transradial and transfemoral approaches for uterine artery embolization: a randomized clinical trial.",
+      "sorttitle": "comparison of the transradial and transfemoral approaches for uterine artery embolization a randomized clinical trial",
+      "volume": "66",
+      "issue": "2",
+      "pages": "165-173",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8706123",
+      "issn": "0284-1851",
+      "essn": "1600-0455",
+      "pubtype": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Comparative Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39962887"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1177/02841851241297818"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/03/27 05:37"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/02/18 06:22"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/02/18 02:12"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Acta radiologica (Stockholm, Sweden : 1987)",
+      "elocationid": "doi: 10.1177/02841851241297818",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/02/01 00:00",
+      "sortfirstauthor": "Bessar AA",
+      "vernaculartitle": ""
+    },
+    "39907748": {
+      "uid": "39907748",
+      "pubdate": "2025 Jun",
+      "epubdate": "2025 Feb 5",
+      "source": "Arch Gynecol Obstet",
+      "authors": [
+        {
+          "name": "Hashemi M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mohammad Ebrahimi B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rouholamin S",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Rouholamin S",
+      "title": "A comparative analysis of the impact of three distinct laparoscopic myomectomy techniques on ovarian reserve: a randomized clinical trial.",
+      "sorttitle": "comparative analysis of the impact of three distinct laparoscopic myomectomy techniques on ovarian reserve a randomized clinical trial",
+      "volume": "311",
+      "issue": "6",
+      "pages": "1617-1625",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8710213",
+      "issn": "0932-0067",
+      "essn": "1432-0711",
+      "pubtype": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Comparative Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39907748"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12055887"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12055887;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s00404-025-07961-4"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1007/s00404-025-07961-4"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2024/09/26 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/01/13 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/05/06 12:42"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/02/05 12:25"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/02/05 11:13"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2025/02/05 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 37,
+      "fulljournalname": "Archives of gynecology and obstetrics",
+      "elocationid": "doi: 10.1007/s00404-025-07961-4",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/06/01 00:00",
+      "sortfirstauthor": "Hashemi M",
+      "vernaculartitle": ""
+    },
+    "39902991": {
+      "uid": "39902991",
+      "pubdate": "2025 Jan 31",
+      "epubdate": "",
+      "source": "Afr J Reprod Health",
+      "authors": [
+        {
+          "name": "Pan Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Han G",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Han G",
+      "title": "Impact of comprehensive nursing on operation time of myomectomy and intraoperative blood loss of pregnant women with co-existing uterine myoma.",
+      "sorttitle": "impact of comprehensive nursing on operation time of myomectomy and intraoperative blood loss of pregnant women with co existing uterine myoma",
+      "volume": "29",
+      "issue": "1",
+      "pages": "70-76",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9712263",
+      "issn": "1118-4841",
+      "essn": "",
+      "pubtype": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39902991"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.29063/ajrh2025/v29i1.7"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "Afr J Reprod Health 2025; 29 [1]: 70-76"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/02/04 17:03"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/02/04 17:02"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/02/04 09:23"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "African journal of reproductive health",
+      "elocationid": "doi: 10.29063/ajrh2025/v29i1.7",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/01/31 00:00",
+      "sortfirstauthor": "Pan Y",
+      "vernaculartitle": ""
+    },
+    "39818313": {
+      "uid": "39818313",
+      "pubdate": "2025 Jun",
+      "epubdate": "2025 Jan 14",
+      "source": "J Minim Invasive Gynecol",
+      "authors": [
+        {
+          "name": "Overdijk LE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hesselink L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "van Kesteren PJM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "de Haan P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Karskens L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Riezebos R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Franssen EJF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rademaker BMP",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Rademaker BMP",
+      "title": "The Impact of Intracervical Terlipressin on Intravasation and Venous Embolization During Transcervical Myomectomy and Endometrium Resection: A Randomized Controlled Study.",
+      "sorttitle": "impact of intracervical terlipressin on intravasation and venous embolization during transcervical myomectomy and endometrium resection a randomized controlled study",
+      "volume": "32",
+      "issue": "6",
+      "pages": "527-533",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101235322",
+      "issn": "1553-4650",
+      "essn": "1553-4669",
+      "pubtype": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39818313"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jmig.2024.12.023"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1553-4650(25)00020-2"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2024/10/01 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2024/12/31 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2024/12/31 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/05/27 00:28"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/01/17 00:20"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/01/16 19:21"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of minimally invasive gynecology",
+      "elocationid": "doi: 10.1016/j.jmig.2024.12.023",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/06/01 00:00",
+      "sortfirstauthor": "Overdijk LE",
+      "vernaculartitle": ""
+    },
+    "39254451": {
+      "uid": "39254451",
+      "pubdate": "2024 Sep",
+      "epubdate": "",
+      "source": "Radiology",
+      "authors": [
+        {
+          "name": "Han K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kim SY",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kim MD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kwon JH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kim GM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Moon S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Park J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kim HC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Won JY",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dhahi TMA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Choi J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kim DK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yang J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shin HJ",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Shin HJ",
+      "title": "Resorbable Microspheres versus Trisacryl Gelatin Microspheres for Uterine Artery Embolization: A Randomized Controlled Trial.",
+      "sorttitle": "resorbable microspheres versus trisacryl gelatin microspheres for uterine artery embolization a randomized controlled trial",
+      "volume": "312",
+      "issue": "3",
+      "pages": "e231525",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0401260",
+      "issn": "0033-8419",
+      "essn": "1527-1315",
+      "pubtype": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Comparative Study",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39254451"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1148/radiol.231525"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2024/09/10 12:45"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2024/09/10 12:44"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2024/09/10 09:54"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Radiology",
+      "elocationid": "doi: 10.1148/radiol.231525",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2024/09/01 00:00",
+      "sortfirstauthor": "Han K",
+      "vernaculartitle": ""
+    },
+    "38528094": {
+      "uid": "38528094",
+      "pubdate": "2024 Mar 25",
+      "epubdate": "2024 Mar 25",
+      "source": "Sci Rep",
+      "authors": [
+        {
+          "name": "Moratalla-Bartolomé E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lázaro-de-la-Fuente J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "López-Carrasco I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cabezas-López E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Carugno J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sancho-Sauco J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pelayo-Delgado I",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Pelayo-Delgado I",
+      "title": "Surgical impact of bilateral transient occlusion of uterine and utero-ovarian arteries during laparoscopic myomectomy.",
+      "sorttitle": "surgical impact of bilateral transient occlusion of uterine and utero ovarian arteries during laparoscopic myomectomy",
+      "volume": "14",
+      "issue": "1",
+      "pages": "7044",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101563288",
+      "issn": "",
+      "essn": "2045-2322",
+      "pubtype": [
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38528094"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10963736"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10963736;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1038/s41598-024-57720-9"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1038/s41598-024-57720-9"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2023/12/23 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2024/03/21 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2024/03/27 06:43"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2024/03/26 06:45"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2024/03/26 00:20"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2024/03/25 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 27,
+      "fulljournalname": "Scientific reports",
+      "elocationid": "doi: 10.1038/s41598-024-57720-9",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2024/03/25 00:00",
+      "sortfirstauthor": "Moratalla-Bartolomé E",
+      "vernaculartitle": ""
+    },
+    "38153958": {
+      "uid": "38153958",
+      "pubdate": "2023 Dec",
+      "epubdate": "2023 Dec 28",
+      "source": "PLoS Med",
+      "authors": [
+        {
+          "name": "van der Meulen JF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bongers MY",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "van der Zee LG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Leemans JC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Duijnhoven RG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "de Leeuw RA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Overdijk LE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Radder CM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "van der Voet LF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Smeets NAC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "van Vliet HAAM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hehenkamp WJK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Manger AP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lim AC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Peters LW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Horree N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Briët JM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "van der Steeg JW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Coppus SFPJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kok HS",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Kok HS",
+      "title": "Procedural sedation and analgesia versus general anesthesia for hysteroscopic myomectomy (PROSECCO trial): A multicenter randomized controlled trial.",
+      "sorttitle": "procedural sedation and analgesia versus general anesthesia for hysteroscopic myomectomy prosecco trial a multicenter randomized controlled trial",
+      "volume": "20",
+      "issue": "12",
+      "pages": "e1004323",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101231360",
+      "issn": "1549-1277",
+      "essn": "1549-1676",
+      "pubtype": [
+        "Randomized Controlled Trial",
+        "Multicenter Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "258",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38153958"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10754450"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10754450;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1371/journal.pmed.1004323"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "PMEDICINE-D-23-00975"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2023/04/10 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2023/11/15 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2024/01/02 11:44"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2023/12/28 18:42"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2023/12/28 13:35"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2023/12/28 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 33,
+      "fulljournalname": "PLoS medicine",
+      "elocationid": "doi: 10.1371/journal.pmed.1004323",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2023/12/28 00:00",
+      "sortfirstauthor": "van der Meulen JF",
+      "vernaculartitle": ""
+    },
+    "38148064": {
+      "uid": "38148064",
+      "pubdate": "2024 Jan-Feb",
+      "epubdate": "",
+      "source": "In Vivo",
+      "authors": [
+        {
+          "name": "Park SJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lee JW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hwang DW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lee S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yim GW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Song G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lee EJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kim HS",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Kim HS",
+      "title": "Effect and Safety of Diluted Vasopressin Injection for Bleeding Control During Robot-assisted Laparoscopic Myomectomy in Reproductive Women With Uterine Fibroids: A Randomized Controlled Pilot Trial (VALENTINE Trial).",
+      "sorttitle": "effect and safety of diluted vasopressin injection for bleeding control during robot assisted laparoscopic myomectomy in reproductive women with uterine fibroids a randomized controlled pilot trial valentine trial",
+      "volume": "38",
+      "issue": "1",
+      "pages": "431-436",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8806809",
+      "issn": "0258-851X",
+      "essn": "1791-7549",
+      "pubtype": [
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38148064"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10756485"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10756485;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.21873/invivo.13456"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "38/1/431"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2023/08/06 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2023/09/08 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2023/09/11 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2023/12/28 06:42"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2023/12/27 00:41"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2023/12/26 20:33"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2024/01/03 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 19,
+      "fulljournalname": "In vivo (Athens, Greece)",
+      "elocationid": "doi: 10.21873/invivo.13456",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2024/01/01 00:00",
+      "sortfirstauthor": "Park SJ",
+      "vernaculartitle": ""
+    },
+    "38004028": {
+      "uid": "38004028",
+      "pubdate": "2023 Nov 10",
+      "epubdate": "2023 Nov 10",
+      "source": "Medicina (Kaunas)",
+      "authors": [
+        {
+          "name": "Balulescu L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Brasoveanu S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pirtea M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Balint O",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ilian A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Grigoras D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Olaru F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Margan MM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Alexandru A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pirtea L",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Pirtea L",
+      "title": "The Efficiency of a Uterine Isthmus Tourniquet in Minimizing Blood Loss during a Myomectomy-A Prospective Study.",
+      "sorttitle": "efficiency of a uterine isthmus tourniquet in minimizing blood loss during a myomectomy a prospective study",
+      "volume": "59",
+      "issue": "11",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9425208",
+      "issn": "1010-660X",
+      "essn": "1648-9144",
+      "pubtype": [
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38004028"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10672779"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10672779;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/medicina59111979"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "medicina59111979"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2023/09/07 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2023/10/24 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2023/11/07 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2023/11/27 16:18"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2023/11/25 12:45"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2023/11/25 01:19"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2023/11/10 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 23,
+      "fulljournalname": "Medicina (Kaunas, Lithuania)",
+      "elocationid": "doi: 10.3390/medicina59111979",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2023/11/10 00:00",
+      "sortfirstauthor": "Balulescu L",
+      "vernaculartitle": ""
+    },
+    "37848865": {
+      "uid": "37848865",
+      "pubdate": "2023 Oct 17",
+      "epubdate": "2023 Oct 17",
+      "source": "BMC Womens Health",
+      "authors": [
+        {
+          "name": "Tam T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Juarez L",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Juarez L",
+      "title": "Effectiveness of a hysteroscopic tissue removal system device for hysteroscopic myomectomy on patients' quality of life: a randomized clinical trial.",
+      "sorttitle": "effectiveness of a hysteroscopic tissue removal system device for hysteroscopic myomectomy on patients quality of life a randomized clinical trial",
+      "volume": "23",
+      "issue": "1",
+      "pages": "541",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101088690",
+      "issn": "",
+      "essn": "1472-6874",
+      "pubtype": [
+        "Randomized Controlled Trial",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37848865"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10583329"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10583329;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1186/s12905-023-02707-3"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1186/s12905-023-02707-3"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2023/04/12 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2023/10/13 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2023/10/23 01:18"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2023/10/18 00:43"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2023/10/17 23:54"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2023/10/17 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 33,
+      "fulljournalname": "BMC women's health",
+      "elocationid": "doi: 10.1186/s12905-023-02707-3",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2023/10/17 00:00",
+      "sortfirstauthor": "Tam T",
+      "vernaculartitle": ""
+    },
+    "37672088": {
+      "uid": "37672088",
+      "pubdate": "2023 Dec",
+      "epubdate": "2023 Sep 6",
+      "source": "Arch Gynecol Obstet",
+      "authors": [
+        {
+          "name": "Gümüsburun N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yapca OE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ozdes S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Al RA",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Al RA",
+      "title": "Triple vs. single uterine tourniquet to reduce hemorrhage at myomectomy: a randomized trial.",
+      "sorttitle": "triple vs single uterine tourniquet to reduce hemorrhage at myomectomy a randomized trial",
+      "volume": "308",
+      "issue": "6",
+      "pages": "1811-1816",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8710213",
+      "issn": "0932-0067",
+      "essn": "1432-0711",
+      "pubtype": [
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37672088"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s00404-023-07201-7"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1007/s00404-023-07201-7"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2022/08/07 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2023/08/21 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2023/10/23 00:44"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2023/09/06 12:42"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2023/09/06 11:05"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Archives of gynecology and obstetrics",
+      "elocationid": "doi: 10.1007/s00404-023-07201-7",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2023/12/01 00:00",
+      "sortfirstauthor": "Gümüsburun N",
+      "vernaculartitle": ""
+    },
+    "37516864": {
+      "uid": "37516864",
+      "pubdate": "2023 Jul 29",
+      "epubdate": "2023 Jul 29",
+      "source": "BMC Womens Health",
+      "authors": [
+        {
+          "name": "Abdou AM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Eldesouky E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Farag E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mohammed A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Abdelaziz DFM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shaaban A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ellaban M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Elhalim AEMA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Elsror AGA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Marai AAE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Abdel-Hakam F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Abd-ElGawad M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Elrashedy AA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Abdelmonem H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kamel MA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Afiffi IK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Elsayed HGA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Abdelhamed SA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bosilah AH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Marie H",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Marie H",
+      "title": "Oxytocin versus a combination of tranexamic acid and ethamsylate in reducing intraoperative bleeding during abdominal myomectomy: a randomized clinical trial.",
+      "sorttitle": "oxytocin versus a combination of tranexamic acid and ethamsylate in reducing intraoperative bleeding during abdominal myomectomy a randomized clinical trial",
+      "volume": "23",
+      "issue": "1",
+      "pages": "398",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101088690",
+      "issn": "",
+      "essn": "1472-6874",
+      "pubtype": [
+        "Randomized Controlled Trial",
+        "Multicenter Study",
+        "Journal Article",
+        "Retracted Publication"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37516864"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10387195"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10387195;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1186/s12905-023-02549-z"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1186/s12905-023-02549-z"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2023/04/27 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2023/07/15 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2023/07/31 11:42"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2023/07/30 01:06"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2023/07/29 23:26"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2023/07/29 00:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "BMC Womens Health. 2024 Oct 29;24(1):582. doi: 10.1186/s12905-024-03419-y.",
+          "reftype": "Retraction in",
+          "pmid": 39472878,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 20,
+      "fulljournalname": "BMC women's health",
+      "elocationid": "doi: 10.1186/s12905-023-02549-z",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2023/07/29 00:00",
+      "sortfirstauthor": "Abdou AM",
+      "vernaculartitle": ""
+    },
+    "36678191": {
+      "uid": "36678191",
+      "pubdate": "2023 Jan 9",
+      "epubdate": "2023 Jan 9",
+      "source": "Nutrients",
+      "authors": [
+        {
+          "name": "Siblini H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Al-Hendy A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Segars J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "González F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Taylor HS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Singh B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Flaminia A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Flores VA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Christman GM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Huang H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Johnson JJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang H",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Zhang H",
+      "title": "Assessing the Hepatic Safety of Epigallocatechin Gallate (EGCG) in Reproductive-Aged Women.",
+      "sorttitle": "assessing the hepatic safety of epigallocatechin gallate egcg in reproductive aged women",
+      "volume": "15",
+      "issue": "2",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101521595",
+      "issn": "",
+      "essn": "2072-6643",
+      "pubtype": [
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "36678191"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC9861948"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC9861948;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/nu15020320"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "nu15020320"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2022/12/19 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2023/01/01 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2023/01/02 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2023/01/21 01:46"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2023/01/22 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2023/01/25 06:00"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2023/01/09 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 54,
+      "fulljournalname": "Nutrients",
+      "elocationid": "doi: 10.3390/nu15020320",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2023/01/09 00:00",
+      "sortfirstauthor": "Siblini H",
+      "vernaculartitle": ""
+    },
+    "36594317": {
+      "uid": "36594317",
+      "pubdate": "2023 Jan",
+      "epubdate": "",
+      "source": "Mymensingh Med J",
+      "authors": [
+        {
+          "name": "Yousuf S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mahmood S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rahman R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Khatun R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tanzin F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Arzoo S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ferdous NE",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Ferdous NE",
+      "title": "Efficacy and Safety of Repeated Use of Ulipristal Acetate in Uterine Fibroids.",
+      "sorttitle": "efficacy and safety of repeated use of ulipristal acetate in uterine fibroids",
+      "volume": "32",
+      "issue": "1",
+      "pages": "168-176",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9601799",
+      "issn": "1022-4742",
+      "essn": "2408-8757",
+      "pubtype": [
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "36594317"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "entrez",
+          "date": "2023/01/03 04:13"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2023/01/04 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2023/01/05 06:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Mymensingh medical journal : MMJ",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2023/01/01 00:00",
+      "sortfirstauthor": "Yousuf S",
+      "vernaculartitle": ""
+    }
+  }
+}

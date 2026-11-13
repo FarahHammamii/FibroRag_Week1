@@ -1,0 +1,4034 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "42847729",
+      "42836805",
+      "42549602",
+      "42524917",
+      "42498219",
+      "42404302",
+      "42380851",
+      "42294527",
+      "42260709",
+      "42172954",
+      "42145021",
+      "42086971",
+      "41999860",
+      "41954864",
+      "41914717",
+      "41868231",
+      "41849970",
+      "41846572",
+      "41813372",
+      "41805970",
+      "41786087",
+      "41733011",
+      "41691731",
+      "41678008",
+      "41671103",
+      "41642287",
+      "41639854",
+      "41606742",
+      "41496343",
+      "41457683"
+    ],
+    "42847729": {
+      "uid": "42847729",
+      "pubdate": "2026 Oct",
+      "epubdate": "",
+      "source": "Minerva Obstet Gynecol",
+      "authors": [
+        {
+          "name": "Fanourgiakis A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lazaridis A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Baekelandt J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Damaskos C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Garmpis N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dimitroulis D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Vlahos NF",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Vlahos NF",
+      "title": "Vaginal natural orifice transluminal endoscopic myomectomy.",
+      "sorttitle": "vaginal natural orifice transluminal endoscopic myomectomy",
+      "volume": "78",
+      "issue": "5",
+      "pages": "454-472",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101777346",
+      "issn": "2724-606X",
+      "essn": "2724-6450",
+      "pubtype": [
+        "Journal Article",
+        "Meta-Analysis"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42847729"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.23736/S2724-606X.26.05932-4"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S2724-606X.26.05932-4"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2026/10/08 17:36"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/10/08 17:35"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/10/08 15:28"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Minerva obstetrics and gynecology",
+      "elocationid": "doi: 10.23736/S2724-606X.26.05932-4",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/10/01 00:00",
+      "sortfirstauthor": "Fanourgiakis A",
+      "vernaculartitle": ""
+    },
+    "42836805": {
+      "uid": "42836805",
+      "pubdate": "2026 Oct 5",
+      "epubdate": "2026 Oct 5",
+      "source": "J Am Coll Radiol",
+      "authors": [
+        {
+          "name": "Expert Panel on GYN and OB Imaging",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        },
+        {
+          "name": "Melamud K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dave HB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dawkins AA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kania L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lo BM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Maheshwari E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Patel-Lippmann KK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shampain KL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shen L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tong A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zimbroff R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Feldman MK",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Feldman MK",
+      "title": "ACR Appropriateness Criteria® Postmenopausal Acute Pelvic Pain: 2026 Update.",
+      "sorttitle": "acr appropriateness criteria postmenopausal acute pelvic pain 2026 update",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101190326",
+      "issn": "1546-1440",
+      "essn": "1558-349X",
+      "pubtype": [
+        "Journal Article",
+        "Practice Guideline"
+      ],
+      "recordstatus": "PubMed - as supplied by publisher",
+      "pubstatus": "10",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42836805"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jacr.2026.08.033"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1546-1440(26)00477-1"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2026/08/25 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/08/31 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/10/06 11:32"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/10/06 11:32"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/10/06 10:29"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of the American College of Radiology : JACR",
+      "elocationid": "pii: S1546-1440(26)00477-1. doi: 10.1016/j.jacr.2026.08.033",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/10/05 00:00",
+      "sortfirstauthor": "Melamud K",
+      "vernaculartitle": ""
+    },
+    "42549602": {
+      "uid": "42549602",
+      "pubdate": "2026 Aug 4",
+      "epubdate": "2026 Aug 4",
+      "source": "Acta Derm Venereol",
+      "authors": [
+        {
+          "name": "Sanz-Cabanillas JL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gómez-García FJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ungar B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sanz-Cabanillas EB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gay-Mimbrera J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Isla-Tejera B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Vélez García-Nieto AJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Guttman-Yassky E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ruano J",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Ruano J",
+      "title": "Systemic Comorbidities in Central Centrifugal Cicatricial Alopecia: A Systematic Review and Meta-analysis.",
+      "sorttitle": "systemic comorbidities in central centrifugal cicatricial alopecia a systematic review and meta analysis",
+      "volume": "106",
+      "issue": "",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0370310",
+      "issn": "0001-5555",
+      "essn": "1651-2057",
+      "pubtype": [
+        "Systematic Review",
+        "Journal Article",
+        "Meta-Analysis"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42549602"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13434544"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13434544;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.2340/actadv.v106.adv-2026-0456"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2026/03/02 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/07/07 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/08/04 12:47"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/08/04 12:46"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/08/04 06:50"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/08/04 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 38,
+      "fulljournalname": "Acta dermato-venereologica",
+      "elocationid": "doi: 10.2340/actadv.v106.adv-2026-0456",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/08/04 00:00",
+      "sortfirstauthor": "Sanz-Cabanillas JL",
+      "vernaculartitle": ""
+    },
+    "42524917": {
+      "uid": "42524917",
+      "pubdate": "2026",
+      "epubdate": "2026 Jul 17",
+      "source": "Acta Cir Bras",
+      "authors": [
+        {
+          "name": "Moura MM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Saad KR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gonçalves Junior EF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Silveira LFG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Castro HP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Felipe Neto A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Saad PF",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Saad PF",
+      "title": "Analgesic strategies in the management of postoperative pain following uterine artery embolization for symptomatic fibroids: a systematic review.",
+      "sorttitle": "analgesic strategies in the management of postoperative pain following uterine artery embolization for symptomatic fibroids a systematic review",
+      "volume": "41",
+      "issue": "",
+      "pages": "e413626",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9103983",
+      "issn": "0102-8650",
+      "essn": "1678-2674",
+      "pubtype": [
+        "Systematic Review",
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "258",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42524917"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13379049"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13379049;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1590/acb413626"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0102-86502026000101406"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/11/05 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/04/23 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/07/29 13:55"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/07/29 13:54"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/07/29 11:03"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/07/17 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 16,
+      "fulljournalname": "Acta cirurgica brasileira",
+      "elocationid": "doi: 10.1590/acb413626",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/07/17 00:00",
+      "sortfirstauthor": "Moura MM",
+      "vernaculartitle": ""
+    },
+    "42498219": {
+      "uid": "42498219",
+      "pubdate": "2026 Nov",
+      "epubdate": "2026 Jul 24",
+      "source": "J Minim Invasive Gynecol",
+      "authors": [
+        {
+          "name": "Marucci da Silva GF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "da Silva LBB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "de Andrade Reis ML",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nunes SMM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "de Oliveira Silveira V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Neto OBP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rosa E Silva JC",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Rosa E Silva JC",
+      "title": "Surgical and Postoperative Outcomes in Laparoscopic Versus Robotic Myomectomy: A Systematic Review and Meta-Analysis.",
+      "sorttitle": "surgical and postoperative outcomes in laparoscopic versus robotic myomectomy a systematic review and meta analysis",
+      "volume": "33",
+      "issue": "11",
+      "pages": "1630-1641",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101235322",
+      "issn": "1553-4650",
+      "essn": "1553-4669",
+      "pubtype": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis",
+        "Comparative Study",
+        "Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42498219"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jmig.2026.07.021"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1553-4650(26)00399-7"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2026/05/16 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/07/20 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/07/20 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/11/04 23:27"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/07/25 00:35"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/07/24 19:14"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of minimally invasive gynecology",
+      "elocationid": "doi: 10.1016/j.jmig.2026.07.021",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/11/01 00:00",
+      "sortfirstauthor": "Marucci da Silva GF",
+      "vernaculartitle": ""
+    },
+    "42404302": {
+      "uid": "42404302",
+      "pubdate": "2026",
+      "epubdate": "2026 Jun 19",
+      "source": "Front Med Technol",
+      "authors": [
+        {
+          "name": "Wang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen Y",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Chen Y",
+      "title": "Diffusion tensor imaging of the pelvic floor muscles and pelvic organs: a systematic review.",
+      "sorttitle": "diffusion tensor imaging of the pelvic floor muscles and pelvic organs a systematic review",
+      "volume": "8",
+      "issue": "",
+      "pages": "1772496",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101772626",
+      "issn": "",
+      "essn": "2673-3129",
+      "pubtype": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "258",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42404302"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13328171"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13328171;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3389/fmedt.2026.1772496"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/12/21 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/05/15 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/05/21 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/07/06 10:11"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/07/06 10:10"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/07/06 05:33"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/06/19 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 75,
+      "fulljournalname": "Frontiers in medical technology",
+      "elocationid": "doi: 10.3389/fmedt.2026.1772496",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/06/19 00:00",
+      "sortfirstauthor": "Wang Y",
+      "vernaculartitle": ""
+    },
+    "42380851": {
+      "uid": "42380851",
+      "pubdate": "2026 Jun 30",
+      "epubdate": "2026 Jun 30",
+      "source": "BMC Womens Health",
+      "authors": [
+        {
+          "name": "Qiu J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lin K",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Lin K",
+      "title": "Association of platelets and platelet-related parameters (PLT/MPV/PLR) in endometriosis: a meta-analysis.",
+      "sorttitle": "association of platelets and platelet related parameters plt mpv plr in endometriosis a meta analysis",
+      "volume": "26",
+      "issue": "1",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101088690",
+      "issn": "",
+      "essn": "1472-6874",
+      "pubtype": [
+        "Journal Article",
+        "Meta-Analysis"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42380851"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13584367"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13584367;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1186/s12905-026-04630-9"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1186/s12905-026-04630-9"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2026/04/15 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/06/22 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/09/17 05:35"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/07/01 10:11"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/07/01 00:36"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/06/30 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 44,
+      "fulljournalname": "BMC women's health",
+      "elocationid": "doi: 10.1186/s12905-026-04630-9",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/06/30 00:00",
+      "sortfirstauthor": "Qiu J",
+      "vernaculartitle": ""
+    },
+    "42294527": {
+      "uid": "42294527",
+      "pubdate": "2026 Dec",
+      "epubdate": "2026 Jun 15",
+      "source": "Int J Hyperthermia",
+      "authors": [
+        {
+          "name": "Li Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang XY",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Guo Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shen Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu FY",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ding DN",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shen F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Han FJ",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Han FJ",
+      "title": "Systematic review with network meta-analysis: efficacy and safety of minimally invasive interventions for symptomatic uterine fibroids.",
+      "sorttitle": "systematic review with network meta analysis efficacy and safety of minimally invasive interventions for symptomatic uterine fibroids",
+      "volume": "43",
+      "issue": "1",
+      "pages": "2670499",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8508395",
+      "issn": "0265-6736",
+      "essn": "1464-5157",
+      "pubtype": [
+        "Journal Article",
+        "Systematic Review",
+        "Network Meta-Analysis",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42294527"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/02656736.2026.2670499"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2026/06/15 12:54"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/06/15 12:53"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/06/15 07:47"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "International journal of hyperthermia : the official journal of European Society for Hyperthermic Oncology, North American Hyperthermia Group",
+      "elocationid": "doi: 10.1080/02656736.2026.2670499",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/12/01 00:00",
+      "sortfirstauthor": "Li Y",
+      "vernaculartitle": ""
+    },
+    "42260709": {
+      "uid": "42260709",
+      "pubdate": "2026 Oct",
+      "epubdate": "2026 Jun 8",
+      "source": "J Clin Ultrasound",
+      "authors": [
+        {
+          "name": "Paoli M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pasquini P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pennetta A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chiara G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Scifo MC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Giacomucci E",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Giacomucci E",
+      "title": "Ultrasound Characteristics of Twisted Pedunculated Subserosal Uterine Leiomyomas: A Case Report and a Systematic Review of the Literature.",
+      "sorttitle": "ultrasound characteristics of twisted pedunculated subserosal uterine leiomyomas a case report and a systematic review of the literature",
+      "volume": "54",
+      "issue": "8",
+      "pages": "1981-1994",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0401663",
+      "issn": "0091-2751",
+      "essn": "1097-0096",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports",
+        "Systematic Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42260709"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13641338"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13641338;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/jcu.70292"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "revised",
+          "date": "2026/04/28 00:00"
+        },
+        {
+          "pubstatus": "received",
+          "date": "2025/08/06 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/05/29 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/10/06 17:31"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/06/09 06:34"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/06/09 00:20"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/10/06 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 55,
+      "fulljournalname": "Journal of clinical ultrasound : JCU",
+      "elocationid": "doi: 10.1002/jcu.70292",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/10/01 00:00",
+      "sortfirstauthor": "Paoli M",
+      "vernaculartitle": ""
+    },
+    "42172954": {
+      "uid": "42172954",
+      "pubdate": "2026 Jul",
+      "epubdate": "2026 Apr 17",
+      "source": "Int J Gynecol Cancer",
+      "authors": [
+        {
+          "name": "Moro F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Barreca A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ciancia M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chiappa V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Carazita V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pedrini V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Giannarelli D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mascilini F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zannoni GF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fanfani F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fagotti A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Testa AC",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Testa AC",
+      "title": "How accurate is ultrasound-guided biopsy for diagnosing suspected myometrial lesions? A systematic review and meta-analysis.",
+      "sorttitle": "how accurate is ultrasound guided biopsy for diagnosing suspected myometrial lesions a systematic review and meta analysis",
+      "volume": "36",
+      "issue": "7",
+      "pages": "104703",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9111626",
+      "issn": "1048-891X",
+      "essn": "1525-1438",
+      "pubtype": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42172954"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.ijgc.2026.104703"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1048-891X(26)00234-3"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2026/02/18 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/03/18 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/04/09 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/07/07 12:35"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/05/23 05:36"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/05/22 18:07"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "International journal of gynecological cancer : official journal of the International Gynecological Cancer Society",
+      "elocationid": "doi: 10.1016/j.ijgc.2026.104703",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/07/01 00:00",
+      "sortfirstauthor": "Moro F",
+      "vernaculartitle": ""
+    },
+    "42145021": {
+      "uid": "42145021",
+      "pubdate": "2026 Apr",
+      "epubdate": "",
+      "source": "Chin Clin Oncol",
+      "authors": [
+        {
+          "name": "Karoń K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Szczęsny N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Piątkowski K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bornio E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Grabowski W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Plata H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pałatyńska M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Karoń Ł",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Piątek S",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Piątek S",
+      "title": "Benign metastasizing leiomyoma: a systematic review of diagnosis, management, and outcomes.",
+      "sorttitle": "benign metastasizing leiomyoma a systematic review of diagnosis management and outcomes",
+      "volume": "15",
+      "issue": "2",
+      "pages": "37",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101608375",
+      "issn": "2304-3865",
+      "essn": "2304-3873",
+      "pubtype": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42145021"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.21037/cco-25-40"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/04/08 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/03/19 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/05/18 06:32"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/05/18 06:31"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/05/18 04:02"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Chinese clinical oncology",
+      "elocationid": "doi: 10.21037/cco-25-40",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/04/01 00:00",
+      "sortfirstauthor": "Karoń K",
+      "vernaculartitle": ""
+    },
+    "42086971": {
+      "uid": "42086971",
+      "pubdate": "2026 May",
+      "epubdate": "2026 May 5",
+      "source": "Reprod Sci",
+      "authors": [
+        {
+          "name": "Howard S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Suresh A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zerdan MB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Islam MS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sayed SE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Michel R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Borahay M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nagaraj S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Elisseeff J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Phillips J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Joseph E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Singh B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Segars JH",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Segars JH",
+      "title": "A Systematic Review of the Role of Senescent Cells in Uterine Leiomyomas: Deciphering Molecular Pathways and Exploring Therapeutic Prospects.",
+      "sorttitle": "systematic review of the role of senescent cells in uterine leiomyomas deciphering molecular pathways and exploring therapeutic prospects",
+      "volume": "33",
+      "issue": "5",
+      "pages": "853-863",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101291249",
+      "issn": "1933-7191",
+      "essn": "1933-7205",
+      "pubtype": [
+        "Journal Article",
+        "Systematic Review",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42086971"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13230283"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13230283;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s43032-026-02075-x"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1007/s43032-026-02075-x"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/03/19 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/02/26 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/06/02 18:44"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/05/06 00:35"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/05/05 23:34"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/05/05 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 46,
+      "fulljournalname": "Reproductive sciences (Thousand Oaks, Calif.)",
+      "elocationid": "doi: 10.1007/s43032-026-02075-x",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/05/01 00:00",
+      "sortfirstauthor": "Howard S",
+      "vernaculartitle": ""
+    },
+    "41999860": {
+      "uid": "41999860",
+      "pubdate": "2026 Aug",
+      "epubdate": "2026 Apr 16",
+      "source": "J Minim Invasive Gynecol",
+      "authors": [
+        {
+          "name": "Thomaz GDGR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kautz LG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Macelaro GP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Borges MM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Garmatz BL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "de Andrade AC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rech RS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Stein AT",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Vanin CMM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dibi RP",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Dibi RP",
+      "title": "Transvaginal Radiofrequency Ablation for Symptomatic Uterine Fibroids: A Systematic Review and Meta-Analysis of Effectiveness, Safety, and Reproductive Outcomes.",
+      "sorttitle": "transvaginal radiofrequency ablation for symptomatic uterine fibroids a systematic review and meta analysis of effectiveness safety and reproductive outcomes",
+      "volume": "33",
+      "issue": "8",
+      "pages": "1100-1109",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101235322",
+      "issn": "1553-4650",
+      "essn": "1553-4669",
+      "pubtype": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41999860"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jmig.2026.04.006"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1553-4650(26)00236-0"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2026/02/03 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/04/08 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/04/09 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/08/20 23:35"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/04/19 13:11"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/04/18 19:12"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Journal of minimally invasive gynecology",
+      "elocationid": "doi: 10.1016/j.jmig.2026.04.006",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/08/01 00:00",
+      "sortfirstauthor": "Thomaz GDGR",
+      "vernaculartitle": ""
+    },
+    "41954864": {
+      "uid": "41954864",
+      "pubdate": "2026 Jun",
+      "epubdate": "2026 Apr 9",
+      "source": "Adv Ther",
+      "authors": [
+        {
+          "name": "Hussein F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Elamin O",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Al-Hendy A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mousa M",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Mousa M",
+      "title": "Multi-omics Approaches for Biomarker Discovery of Uterine Fibroids: A Systematic Review.",
+      "sorttitle": "multi omics approaches for biomarker discovery of uterine fibroids a systematic review",
+      "volume": "43",
+      "issue": "6",
+      "pages": "2474-2495",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8611864",
+      "issn": "0741-238X",
+      "essn": "1865-8652",
+      "pubtype": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41954864"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13222170"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13222170;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s12325-026-03569-5"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1007/s12325-026-03569-5"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2026/01/31 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/03/11 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/05/31 05:31"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/04/09 12:46"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/04/09 11:17"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/04/09 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 88,
+      "fulljournalname": "Advances in therapy",
+      "elocationid": "doi: 10.1007/s12325-026-03569-5",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/06/01 00:00",
+      "sortfirstauthor": "Hussein F",
+      "vernaculartitle": ""
+    },
+    "41914717": {
+      "uid": "41914717",
+      "pubdate": "2026 May",
+      "epubdate": "2026 Mar 31",
+      "source": "Acta Obstet Gynecol Scand",
+      "authors": [
+        {
+          "name": "Witkowiak MM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bourdakos NE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zervides ZY",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Moutzouri O",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dariotis MM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bitton L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Abdulsalam FAM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nakanishi H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Than CA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Abacjew-Chmylko A",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Abacjew-Chmylko A",
+      "title": "The effect of temporary uterine artery ligation on blood loss during laparoscopic myomectomy: A systematic review and meta-analysis.",
+      "sorttitle": "effect of temporary uterine artery ligation on blood loss during laparoscopic myomectomy a systematic review and meta analysis",
+      "volume": "105",
+      "issue": "5",
+      "pages": "795-804",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0370343",
+      "issn": "0001-6349",
+      "essn": "1600-0412",
+      "pubtype": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41914717"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13125364"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13125364;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/aogs.70177"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "revised",
+          "date": "2026/02/08 00:00"
+        },
+        {
+          "pubstatus": "received",
+          "date": "2025/07/15 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/02/11 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/04/29 06:36"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/03/31 12:32"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/03/31 08:44"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/03/31 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 32,
+      "fulljournalname": "Acta obstetricia et gynecologica Scandinavica",
+      "elocationid": "doi: 10.1111/aogs.70177",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/05/01 00:00",
+      "sortfirstauthor": "Witkowiak MM",
+      "vernaculartitle": ""
+    },
+    "41868231": {
+      "uid": "41868231",
+      "pubdate": "2026",
+      "epubdate": "2026 Mar 6",
+      "source": "Front Med (Lausanne)",
+      "authors": [
+        {
+          "name": "Alhebshi ZA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ahmad MN",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Alsayed MA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Aljarari LH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rawah M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hayat M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fadl JKM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Daoud I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Orabi OOM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Eltayeb SMH",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Eltayeb SMH",
+      "title": "Transradial versus transfemoral access in uterine artery embolization for fibroids: a systematic review and meta-analysis.",
+      "sorttitle": "transradial versus transfemoral access in uterine artery embolization for fibroids a systematic review and meta analysis",
+      "volume": "13",
+      "issue": "",
+      "pages": "1718480",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101648047",
+      "issn": "2296-858X",
+      "essn": "2296-858X",
+      "pubtype": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "258",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41868231"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13002562"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13002562;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3389/fmed.2026.1718480"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/10/03 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/02/09 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/02/16 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/03/23 06:33"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/03/23 06:32"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/03/23 05:52"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/03/06 00:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Front Med (Lausanne). 2026 Mar 25;13:1830166. doi: 10.3389/fmed.2026.1830166.",
+          "reftype": "Erratum in",
+          "pmid": 41958543,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 26,
+      "fulljournalname": "Frontiers in medicine",
+      "elocationid": "doi: 10.3389/fmed.2026.1718480",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/03/06 00:00",
+      "sortfirstauthor": "Alhebshi ZA",
+      "vernaculartitle": ""
+    },
+    "41849970": {
+      "uid": "41849970",
+      "pubdate": "2026 Jun",
+      "epubdate": "2026 Mar 17",
+      "source": "Reprod Biol",
+      "authors": [
+        {
+          "name": "Purnamasari HY",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rahmasari R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gusmira A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "A M Sitorus FL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mun'im A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Elya B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Setiawan H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Khayrani AC",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Khayrani AC",
+      "title": "Recent advances in progesterone receptor-targeted therapy for uterine fibroids: A systematic review of synthetic and natural modulators.",
+      "sorttitle": "recent advances in progesterone receptor targeted therapy for uterine fibroids a systematic review of synthetic and natural modulators",
+      "volume": "26",
+      "issue": "2",
+      "pages": "101210",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101160559",
+      "issn": "1642-431X",
+      "essn": "2300-732X",
+      "pubtype": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41849970"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.repbio.2026.101210"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1642-431X(26)00032-X"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/12/10 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/02/09 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/03/08 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/05/18 00:30"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/03/19 01:32"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/03/18 19:08"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Reproductive biology",
+      "elocationid": "doi: 10.1016/j.repbio.2026.101210",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/06/01 00:00",
+      "sortfirstauthor": "Purnamasari HY",
+      "vernaculartitle": ""
+    },
+    "41846572": {
+      "uid": "41846572",
+      "pubdate": "2026 Jun",
+      "epubdate": "2026 Mar 18",
+      "source": "Minim Invasive Ther Allied Technol",
+      "authors": [
+        {
+          "name": "Zhao J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhao H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ma X",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Ma X",
+      "title": "Recurrence and related factors associated with uterine leiomyoma following laparoscopic myomectomy: a meta-analysis.",
+      "sorttitle": "recurrence and related factors associated with uterine leiomyoma following laparoscopic myomectomy a meta analysis",
+      "volume": "35",
+      "issue": "3",
+      "pages": "210-220",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9612996",
+      "issn": "1364-5706",
+      "essn": "1365-2931",
+      "pubtype": [
+        "Journal Article",
+        "Meta-Analysis"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41846572"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/13645706.2026.2643432"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2026/05/29 15:45"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/03/18 07:25"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/03/18 04:33"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Minimally invasive therapy & allied technologies : MITAT : official journal of the Society for Minimally Invasive Therapy",
+      "elocationid": "doi: 10.1080/13645706.2026.2643432",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/06/01 00:00",
+      "sortfirstauthor": "Zhao J",
+      "vernaculartitle": ""
+    },
+    "41813372": {
+      "uid": "41813372",
+      "pubdate": "2026 Mar",
+      "epubdate": "",
+      "source": "Taiwan J Obstet Gynecol",
+      "authors": [
+        {
+          "name": "Otgontuya A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jeng CJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chuang LT",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shen J",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Shen J",
+      "title": "Improving the symptoms of dysmenorrhea and menorrhagia of women with adenomyosis and myoma in short- and long-term treatment effectiveness of microwave ablation: A systematic review and meta-analysis.",
+      "sorttitle": "improving the symptoms of dysmenorrhea and menorrhagia of women with adenomyosis and myoma in short and long term treatment effectiveness of microwave ablation a systematic review and meta analysis",
+      "volume": "65",
+      "issue": "2",
+      "pages": "188-197",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101213819",
+      "issn": "1028-4559",
+      "essn": "1875-6263",
+      "pubtype": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41813372"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.tjog.2025.05.023"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1028-4559(26)00020-3"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "accepted",
+          "date": "2025/05/27 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/03/12 07:03"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/03/12 01:09"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/03/11 22:29"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Taiwanese journal of obstetrics & gynecology",
+      "elocationid": "doi: 10.1016/j.tjog.2025.05.023",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/03/01 00:00",
+      "sortfirstauthor": "Otgontuya A",
+      "vernaculartitle": ""
+    },
+    "41805970": {
+      "uid": "41805970",
+      "pubdate": "2026 Oct",
+      "epubdate": "2026 Mar 10",
+      "source": "Cardiovasc Intervent Radiol",
+      "authors": [
+        {
+          "name": "Nadeem A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Husnain A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nadeem ZA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rehman OU",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fatima E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ahmad E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Akram U",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yu Q",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Badar W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ahmed O",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Ahmed O",
+      "title": "Uterine Artery Embolization Using Gelatin Sponge Particles in Patients with Symptomatic Uterine Fibroids: A Systematic Review and Meta-Analysis.",
+      "sorttitle": "uterine artery embolization using gelatin sponge particles in patients with symptomatic uterine fibroids a systematic review and meta analysis",
+      "volume": "49",
+      "issue": "10",
+      "pages": "1989-2001",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8003538",
+      "issn": "0174-1551",
+      "essn": "1432-086X",
+      "pubtype": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41805970"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s00270-026-04398-3"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1007/s00270-026-04398-3"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2024/11/15 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/02/17 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/10/07 05:31"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/03/10 18:37"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/03/10 17:24"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Cardiovasc Intervent Radiol. 2026 Jul;49(7):1436-1438. doi: 10.1007/s00270-026-04450-2.",
+          "reftype": "Erratum in",
+          "pmid": 42185522,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Cardiovascular and interventional radiology",
+      "elocationid": "doi: 10.1007/s00270-026-04398-3",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/10/01 00:00",
+      "sortfirstauthor": "Nadeem A",
+      "vernaculartitle": ""
+    },
+    "41786087": {
+      "uid": "41786087",
+      "pubdate": "2026 May",
+      "epubdate": "2026 Mar 3",
+      "source": "J Nutr",
+      "authors": [
+        {
+          "name": "Salmeri N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cipriani S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ricci E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Esposito G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Abodi M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Favilli A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Parazzini F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chiaffarino F",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Chiaffarino F",
+      "title": "A Systematic Review and Meta-analysis on Alcohol Consumption and Uterine Fibroids: An Update from 2017.",
+      "sorttitle": "systematic review and meta analysis on alcohol consumption and uterine fibroids an update from 2017",
+      "volume": "156",
+      "issue": "5",
+      "pages": "101465",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0404243",
+      "issn": "0022-3166",
+      "essn": "1541-6100",
+      "pubtype": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41786087"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.tjnut.2026.101465"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0022-3166(26)00114-8"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/12/08 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/02/23 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/02/26 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/05/09 00:33"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/03/06 09:03"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/03/05 19:13"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The Journal of nutrition",
+      "elocationid": "doi: 10.1016/j.tjnut.2026.101465",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/05/01 00:00",
+      "sortfirstauthor": "Salmeri N",
+      "vernaculartitle": ""
+    },
+    "41733011": {
+      "uid": "41733011",
+      "pubdate": "2026 Mar",
+      "epubdate": "",
+      "source": "Adv Clin Exp Med",
+      "authors": [
+        {
+          "name": "Tanos V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Papailiou V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tanos P",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Tanos P",
+      "title": "Chromosomal and gene mapping of uterine fibroids: A systematic review.",
+      "sorttitle": "chromosomal and gene mapping of uterine fibroids a systematic review",
+      "volume": "35",
+      "issue": "3",
+      "pages": "543-553",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101138582",
+      "issn": "1899-5276",
+      "essn": "",
+      "pubtype": [
+        "Systematic Review",
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41733011"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.17219/acem/195966"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2023/11/03 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2024/11/14 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/03/31 12:32"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/02/24 18:46"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/02/24 06:13"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Advances in clinical and experimental medicine : official organ Wroclaw Medical University",
+      "elocationid": "doi: 10.17219/acem/195966",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/03/01 00:00",
+      "sortfirstauthor": "Tanos V",
+      "vernaculartitle": ""
+    },
+    "41691731": {
+      "uid": "41691731",
+      "pubdate": "2026 Apr",
+      "epubdate": "2026 Feb 12",
+      "source": "Eur J Radiol",
+      "authors": [
+        {
+          "name": "Hosseini-Siyanaki MR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hosseini SM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Afshari M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nejad FK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mehrabi H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Elahi R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sohrabi-Ashlaghi A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ahmadi B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Houshi S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yazdanpanah F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Beyzavi Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Iqbal S",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Iqbal S",
+      "title": "The application of Machine learning in predicting the outcomes of minimally invasive treatments for uterine Fibroids: A systematic review and meta-analysis.",
+      "sorttitle": "application of machine learning in predicting the outcomes of minimally invasive treatments for uterine fibroids a systematic review and meta analysis",
+      "volume": "197",
+      "issue": "",
+      "pages": "112726",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8106411",
+      "issn": "0720-048X",
+      "essn": "1872-7727",
+      "pubtype": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41691731"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.ejrad.2026.112726"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0720-048X(26)00074-4"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/11/12 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/01/20 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/02/11 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/03/06 09:08"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/02/15 18:31"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/02/15 17:59"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Eur J Radiol. 2026 Dec;205:113273. doi: 10.1016/j.ejrad.2026.113273.",
+          "reftype": "Erratum in",
+          "pmid": 42837773,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "European journal of radiology",
+      "elocationid": "doi: 10.1016/j.ejrad.2026.112726",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/04/01 00:00",
+      "sortfirstauthor": "Hosseini-Siyanaki MR",
+      "vernaculartitle": ""
+    },
+    "41678008": {
+      "uid": "41678008",
+      "pubdate": "2026 Jun",
+      "epubdate": "2026 Feb 12",
+      "source": "Jpn J Radiol",
+      "authors": [
+        {
+          "name": "Saida T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ueda T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kurihara M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kumazawa M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shitano F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fujii S",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Fujii S",
+      "title": "MRI for diagnosing uterine sarcoma: a systematic review and meta-analysis.",
+      "sorttitle": "mri for diagnosing uterine sarcoma a systematic review and meta analysis",
+      "volume": "44",
+      "issue": "6",
+      "pages": "976-986",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101490689",
+      "issn": "1867-1071",
+      "essn": "1867-108X",
+      "pubtype": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41678008"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13222180"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13222180;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s11604-026-01952-4"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1007/s11604-026-01952-4"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/11/21 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/01/05 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/06/27 18:37"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/02/12 12:50"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/02/12 11:19"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/02/12 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 37,
+      "fulljournalname": "Japanese journal of radiology",
+      "elocationid": "doi: 10.1007/s11604-026-01952-4",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/06/01 00:00",
+      "sortfirstauthor": "Saida T",
+      "vernaculartitle": ""
+    },
+    "41671103": {
+      "uid": "41671103",
+      "pubdate": "2026 May 1",
+      "epubdate": "",
+      "source": "Br J Radiol",
+      "authors": [
+        {
+          "name": "Saleem Z",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Saleem Z",
+      "title": "Association of endometrial pathologies with infertility and malignant potential in pre- and postmenopausal women-a systematic review.",
+      "sorttitle": "association of endometrial pathologies with infertility and malignant potential in pre and postmenopausal women a systematic review",
+      "volume": "99",
+      "issue": "1181",
+      "pages": "859-865",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0373125",
+      "issn": "0007-1285",
+      "essn": "1748-880X",
+      "pubtype": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41671103"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1093/bjr/tqag031"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "8472720"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2023/12/06 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/11/29 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/02/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/05/02 00:33"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/02/11 18:59"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/02/11 12:43"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The British journal of radiology",
+      "elocationid": "doi: 10.1093/bjr/tqag031",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/05/01 00:00",
+      "sortfirstauthor": "Saleem Z",
+      "vernaculartitle": ""
+    },
+    "41642287": {
+      "uid": "41642287",
+      "pubdate": "2026 Aug",
+      "epubdate": "2026 Feb 5",
+      "source": "Abdom Radiol (NY)",
+      "authors": [
+        {
+          "name": "Kol SQ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wassenaar NPM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "de Leeuw RA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bipat S",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Bipat S",
+      "title": "Magnetic resonance elastography (MRE) for the evaluation of fibrosis in patients with benign uterine disorders: a systematic review.",
+      "sorttitle": "magnetic resonance elastography mre for the evaluation of fibrosis in patients with benign uterine disorders a systematic review",
+      "volume": "51",
+      "issue": "8",
+      "pages": "4106-4117",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101674571",
+      "issn": "2366-004X",
+      "essn": "2366-0058",
+      "pubtype": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41642287"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13388771"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13388771;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s00261-026-05374-8"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1007/s00261-026-05374-8"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/11/12 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/01/01 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/12/24 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/07/21 12:35"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/02/05 17:33"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/02/05 11:13"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/02/05 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 39,
+      "fulljournalname": "Abdominal radiology (New York)",
+      "elocationid": "doi: 10.1007/s00261-026-05374-8",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/08/01 00:00",
+      "sortfirstauthor": "Kol SQ",
+      "vernaculartitle": ""
+    },
+    "41639854": {
+      "uid": "41639854",
+      "pubdate": "2026 Feb 5",
+      "epubdate": "2026 Feb 5",
+      "source": "BMC Womens Health",
+      "authors": [
+        {
+          "name": "Gao X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wu X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhou H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Di W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ye J",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Ye J",
+      "title": "Uterine myxoid leiomyosarcoma complicated by pulmonary embolism: a case report with a systematic literature review.",
+      "sorttitle": "uterine myxoid leiomyosarcoma complicated by pulmonary embolism a case report with a systematic literature review",
+      "volume": "26",
+      "issue": "1",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101088690",
+      "issn": "",
+      "essn": "1472-6874",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports",
+        "Systematic Review"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41639854"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12969919"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12969919;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1186/s12905-026-04324-2"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1186/s12905-026-04324-2"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/09/16 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/01/30 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/06/27 06:45"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/02/05 00:31"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/02/04 23:59"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/02/05 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 36,
+      "fulljournalname": "BMC women's health",
+      "elocationid": "doi: 10.1186/s12905-026-04324-2",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/02/05 00:00",
+      "sortfirstauthor": "Gao X",
+      "vernaculartitle": ""
+    },
+    "41606742": {
+      "uid": "41606742",
+      "pubdate": "2026 Jan 28",
+      "epubdate": "2026 Jan 28",
+      "source": "BMC Womens Health",
+      "authors": [
+        {
+          "name": "Ebrahimi P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pakdaman K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Esmaeilnia Shirvani A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Advani S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Farmahini Farahani M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Elyasi S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nourollahpour Shiadeh M",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Nourollahpour Shiadeh M",
+      "title": "The role of mifepristone in managing myoma: a systematic review and meta-analysis of uterine parameters.",
+      "sorttitle": "role of mifepristone in managing myoma a systematic review and meta analysis of uterine parameters",
+      "volume": "26",
+      "issue": "1",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101088690",
+      "issn": "",
+      "essn": "1472-6874",
+      "pubtype": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41606742"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12924362"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12924362;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1186/s12905-026-04262-z"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1186/s12905-026-04262-z"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/01/10 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/01/02 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/02/21 06:31"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/01/29 07:34"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/01/29 00:12"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/01/28 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 55,
+      "fulljournalname": "BMC women's health",
+      "elocationid": "doi: 10.1186/s12905-026-04262-z",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/28 00:00",
+      "sortfirstauthor": "Ebrahimi P",
+      "vernaculartitle": ""
+    },
+    "41496343": {
+      "uid": "41496343",
+      "pubdate": "2026 Jan",
+      "epubdate": "2026 Jan 6",
+      "source": "Biomed Pharmacother",
+      "authors": [
+        {
+          "name": "Martinez-Martinez A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sanz FJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Garcia-Acero P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sebastian-Leon P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Diaz-Gimeno P",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Diaz-Gimeno P",
+      "title": "Descriptive overview of gene variants potentially affecting female infertility treatments: A systematic review.",
+      "sorttitle": "descriptive overview of gene variants potentially affecting female infertility treatments a systematic review",
+      "volume": "194",
+      "issue": "",
+      "pages": "118942",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8213295",
+      "issn": "0753-3322",
+      "essn": "1950-6007",
+      "pubtype": [
+        "Systematic Review",
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41496343"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.biopha.2025.118942"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0753-3322(25)01136-9"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/11/19 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/12/19 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/12/27 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/01/11 00:34"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/01/07 06:31"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/01/07 01:23"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+      "elocationid": "doi: 10.1016/j.biopha.2025.118942",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/01/01 00:00",
+      "sortfirstauthor": "Martinez-Martinez A",
+      "vernaculartitle": ""
+    },
+    "41457683": {
+      "uid": "41457683",
+      "pubdate": "2025 Dec 23",
+      "epubdate": "",
+      "source": "Afr J Reprod Health",
+      "authors": [
+        {
+          "name": "Alghamdi HA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Al-Zahrani M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Alkodae S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Alzeer R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Alharbi R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Althafar J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Alsulaimani M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Elbashir AE",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Elbashir AE",
+      "title": "Comparative analysis of robotic-assisted laparoscopic myomectomy versus traditional abdominal and laparoscopic myomectomy: A meta analysis and systematic review.",
+      "sorttitle": "comparative analysis of robotic assisted laparoscopic myomectomy versus traditional abdominal and laparoscopic myomectomy a meta analysis and systematic review",
+      "volume": "29",
+      "issue": "12",
+      "pages": "230-246",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9712263",
+      "issn": "1118-4841",
+      "essn": "",
+      "pubtype": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis",
+        "Comparative Study"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41457683"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.29063/ajrh2025/v29i12.22"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "Afr J Reprod Health 2025; 29 [12]: 230-246"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/12/29 07:09"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/12/29 07:08"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/12/29 02:57"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "African journal of reproductive health",
+      "elocationid": "doi: 10.29063/ajrh2025/v29i12.22",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/12/23 00:00",
+      "sortfirstauthor": "Alghamdi HA",
+      "vernaculartitle": ""
+    }
+  }
+}

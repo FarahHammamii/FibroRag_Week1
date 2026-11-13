@@ -1,0 +1,13 @@
+id,base,date_utc,total_hits,export,P,I,N,P_percent,decision,reason
+MED-v1,PubMed,2026-11-12T10:25:53.742981+00:00,5273,30,3,15,12,10.0,Écartée du corpus formel,"Version témoin trop large; MED-v2 ajoute synonymes, dates et types documentaires."
+MED-v2,PubMed,2026-11-12T10:26:01.267596+00:00,317,30,15,2,13,50.0,Retenue principale,"Requête structurée sur synthèses et guidelines; filtrer hors sujet, compléter sites officiels."
+MED-v3,PubMed,2026-11-12T10:26:28.640893+00:00,17,17,0,9,8,0.0,Retenue complément local,17 notices seulement; nombreuses observations isolées; vérifier pays réel et chercher publications locales hors index.
+MED-v4,PubMed,2026-11-12T10:26:36.180928+00:00,82,30,6,21,3,20.0,Retenue conditionnelle,Essais si lacune des synthèses; nombreuses techniques opératoires sans outcome reproductif direct.
+TECH-v1,PubMed,2026-11-12T10:26:41.124449+00:00,751,30,12,9,9,40.0,Écartée du volet formel,"Version témoin; 28 titres/notices communs avec TECH-v2, sans filtre temporel."
+TECH-v2,PubMed,2026-11-12T10:26:47.972794+00:00,803,30,12,9,9,40.0,Retenue repérage ciblé,"Volet technique non exhaustif, 30 premiers + recherche par citations et sites ACL/éditeurs."
+TECH-v3,OpenAlex,2026-11-12T10:27:02.318395+00:00,51841,30,17,5,8,56.7,Écartée du volet formel,51 841 résultats; recherche de découverte trop large; conserver les pistes repérées.
+TECH-v4,OpenAlex,2026-11-12T10:27:06.023762+00:00,599,30,13,7,10,43.3,Retenue repérage ciblé,"Proches concurrents, mais hors domaine et versions non évaluées à filtrer."
+TECH-v5,OpenAlex,2026-11-12T10:27:13.765549+00:00,2050,30,18,3,9,60.0,Retenue repérage ciblé,Incertitude et abstention; bruit multimodal/non médical à filtrer.
+TECH-v6,OpenAlex,2026-11-12T10:27:36.766482+00:00,3075,30,19,0,11,63.3,Retenue repérage ciblé,Attribution et factualité; méthodes génériques transférables avec prudence.
+TECH-v7,OpenAlex,2026-11-12T10:28:06.967915+00:00,13188,30,23,1,6,76.7,Retenue repérage ciblé,"Multilingue et retrieval; vérifier FR/EN, type de question et évaluation."
+MED-v5,Europe PMC,2026-11-12T10:28:26.823978+00:00,164,30,19,2,9,63.3,Retenue complément,Apport de guidelines et revues; dédoublonner avec PubMed.

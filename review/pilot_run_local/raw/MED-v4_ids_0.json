@@ -1,0 +1,45 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "82",
+    "retmax": "30",
+    "retstart": "0",
+    "idlist": [
+      "42649498",
+      "42507444",
+      "42294769",
+      "41932577",
+      "41773973",
+      "41628502",
+      "41581744",
+      "41444772",
+      "41208417",
+      "41186511",
+      "41109208",
+      "40580658",
+      "40420404",
+      "40261880",
+      "40164039",
+      "40077973",
+      "39962887",
+      "39907748",
+      "39902991",
+      "39818313",
+      "39254451",
+      "38528094",
+      "38153958",
+      "38148064",
+      "38004028",
+      "37848865",
+      "37672088",
+      "37516864",
+      "36678191",
+      "36594317"
+    ],
+    "translationset": [],
+    "querytranslation": "((\"Leiomyoma\"[MeSH Terms] AND \"Uterine Neoplasms\"[MeSH Terms]) OR \"uterine fibroid*\"[Title/Abstract] OR \"uterine leiomyoma*\"[Title/Abstract] OR \"uterine myoma*\"[Title/Abstract] OR \"fibrome* uterin*\"[Title/Abstract] OR \"uterine fibromyoma*\"[Title/Abstract]) AND (\"fertility\"[Title/Abstract] OR \"infertility\"[Title/Abstract] OR \"myomectomy\"[Title/Abstract] OR \"embolization\"[Title/Abstract]) AND \"randomized controlled trial\"[Publication Type] AND 2016/01/01:2026/11/12[Date - Publication]"
+  }
+}
